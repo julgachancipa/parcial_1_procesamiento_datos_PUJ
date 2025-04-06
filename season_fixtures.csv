@@ -1,0 +1,71 @@
+matchday,upcoming,total_goals,total_home_goals,total_away_goals,own_goals,fixture_id,home_team,home_team_code,away_team,away_team_code,fixture_code,venue,date,local_time,attendance,half_time_score,full_time_score,home_team_goals,away_team_goals,home_team_scorers,away_team_scorers,postponed,status
+1,False,25.0,13.0,12.0,0.0,1001,Manchester United,MUN,Leicester City,LEI,MUNLEI,Old Trafford,10-08-2018,20:00:00,74439.0,1-0,2-1,2.0,1.0,"Pogba 3' (P), Shaw 83'",Vardy 90 +2',False,FT
+1,False,25.0,13.0,12.0,0.0,1002,Newcastle United,NEW,Tottenham Hotspur,TOT,NEWTOT,St. James' Park,11-08-2018,12:30:00,51749.0,1-2,1-2,1.0,2.0,Joselu 11',"Vertonghen 8', Alli 18'",False,FT
+1,False,25.0,13.0,12.0,0.0,1003,Bournemouth,BOU,Cardiff City,CAR,BOUCAR,Vitality Stadium,11-08-2018,15:00:00,10353.0,1-0,2-0,2.0,0.0,"Fraser 24', Wilson 90 +1'",,False,FT
+1,False,25.0,13.0,12.0,0.0,1004,Fulham,FUL,Crystal Palace,CRY,FULCRY,Craven Cottage,11-08-2018,15:00:00,24821.0,0-1,0-2,0.0,2.0,,"Zaha 79', Schlupp 41'",False,FT
+1,False,25.0,13.0,12.0,0.0,1005,Huddersfield Town,HUD,Chelsea,CHE,HUDCHE,John Smith's Stadium,11-08-2018,15:00:00,24121.0,0-2,0-3,0.0,3.0,,"Kanté 34', Jorginho 45' (P), Pedro 80'",False,FT
+1,False,25.0,13.0,12.0,0.0,1006,Watford,WAT,Brighton and Hove Albion,BHA,WATBHA,Vicarage Road,11-08-2018,15:00:00,20051.0,1-0,2-0,2.0,0.0,"Pereyra 35', Pereyra 54'",,False,FT
+1,False,25.0,13.0,12.0,0.0,1007,Wolverhampton Wanderers,WOL,Everton,EVE,WOLEVE,Molineux Stadium,11-08-2018,21:30:00,31231.0,1-1,2-2,2.0,2.0,"Neves 44', Jiménez 80'","Richarlison 17', Richarlison 67'",False,FT
+1,False,25.0,13.0,12.0,0.0,1008,Liverpool,LIV,West Ham United,WHU,LIVWHU,Anfield,12-08-2018,13:30:00,53235.0,2-0,4-0,4.0,0.0,"Salah 19', Mané 47', Mané 53', Sturridge 88'",,False,FT
+1,False,25.0,13.0,12.0,0.0,1009,Southampton,SOU,Burnley,BUR,SOUBUR,St. Mary's Stadium,12-08-2018,13:30:00,30784.0,0-0,0-0,0.0,0.0,,,False,FT
+1,False,25.0,13.0,12.0,0.0,1010,Arsenal,ARS,Manchester City,MCI,ARSMCI,Emirates Stadium,12-08-2018,16:00:00,59934.0,0-1,0-2,0.0,2.0,,"Sterling 14', B.Silva 64'",False,FT
+2,False,35.0,21.0,14.0,2.0,1011,Cardiff City,CAR,Newcastle United,NEW,CARNEW,Cardiff City Stadium,18-08-2018,12:30:00,30720.0,0-0,0-0,0.0,0.0,,,False,FT
+2,False,35.0,21.0,14.0,2.0,1012,Everton,EVE,Southampton,SOU,EVESOU,Goodison Park,18-08-2018,15:00:00,38601.0,2-0,2-1,2.0,1.0,"Walcott 15', Richarlison 31'",Ings 54',False,FT
+2,False,35.0,21.0,14.0,2.0,1013,Leicester City,LEI,Wolverhampton Wanderers,WOL,LEIWOL,King Power Stadium,18-08-2018,15:00:00,32043.0,2-0,2-0,2.0,0.0,"Doherty 29' (OG), Maddison 45'",,False,FT
+2,False,35.0,21.0,14.0,2.0,1014,Tottenham Hotspur,TOT,Fulham,FUL,TOTFUL,Wembley Stadium,18-08-2018,15:00:00,58297.0,1-0,3-1,3.0,1.0,"Moura 43', Trippier 74', Kane 77'",Mitrović 52',False,FT
+2,False,35.0,21.0,14.0,2.0,1015,West Ham United,WHU,Bournemouth,BOU,WHUBOU,London Stadium,18-08-2018,15:00:00,56888.0,1-0,1-2,1.0,2.0,Arnautović 33' (P),"Wilson 60', S.Cook 66'",False,FT
+2,False,35.0,21.0,14.0,2.0,1016,Chelsea,CHE,Arsenal,ARS,CHEARS,Stamford Bridge,18-08-2018,17:30:00,40491.0,2-2,3-2,3.0,2.0,"Pedro 9', Morata 20', Alonso 81'","Mkhitaryan 37', Iwobi 41'",False,FT
+2,False,35.0,21.0,14.0,2.0,1017,Burnley,BUR,Watford,WAT,BURWAT,Turf Moor,19-08-2018,13:30:00,18822.0,1-1,1-3,1.0,3.0,Tarkowski 6',"Gray 3', Deeney 48', Hughes 51'",False,FT
+2,False,35.0,21.0,14.0,2.0,1018,Manchester City,MCI,Huddersfield Town,HUD,MCIHUD,Etihad Stadoum,19-08-2018,13:30:00,54021.0,3-1,6-1,6.0,1.0,"Agüero 25', Jesus 31', Agüero 35', D.Silva 48', Agüero 75', Kongolo 84' (OG)",Stanković 43',False,FT
+2,False,35.0,21.0,14.0,2.0,1019,Brighton and Hove Albion,BHA,Manchester United,MUN,BHAMUN,Amex Stadium,19-08-2018,16:00:00,30592.0,3-1,3-2,3.0,2.0,"Murray 25', Duffy 27', Groß 44' (P)","Lukaku 34', Pogba 90 +5' (P)",False,FT
+2,False,35.0,21.0,14.0,2.0,1020,Crystal Palace,CRY,Liverpool,LIV,CRYLIV,Selhurst Park,20-08-2018,20:00:00,25750.0,0-1,0-2,0.0,2.0,,"Milner 45' (P), Mané 90 +3",False,FT
+3,False,29.0,15.0,14.0,2.0,1021,Wolverhampton Wanderers,WOL,Manchester City,MCI,WOLMCI,Molineux Stadium,25-08-2018,12:30:00,31322.0,0-0,1-1,1.0,1.0,Boly 57',Laporte 69',False,FT
+3,False,29.0,15.0,14.0,2.0,1022,Arsenal,ARS,West Ham United,WHU,ARSWHU,Emirates Stadium,25-08-2018,15:00:00,59830.0,1-1,3-1,3.0,1.0,"Monreal 30', Diop 70' (OG), Welbeck 90 +2'",Arnautović 25',False,FT
+3,False,29.0,15.0,14.0,2.0,1023,Bournemouth,BOU,Everton,EVE,BOUEVE,Vitality Stadium,25-08-2018,15:00:00,10654.0,0-0,2-2,2.0,2.0,"King 75' (P), Aké 79'","Walcott 56', Keane 66'",False,FT
+3,False,29.0,15.0,14.0,2.0,1024,Huddersfield Town,HUD,Cardiff City,CAR,HUDCAR,John Smith's Stadium,25-08-2018,15:00:00,21193.0,0-0,0-0,0.0,0.0,,,False,FT
+3,False,29.0,15.0,14.0,2.0,1025,Southampton,SOU,Leicester City,LEI,SOULEI,St. Mary's Stadium,25-08-2018,15:00:00,29925.0,0-0,1-2,1.0,2.0,Bertrand 52',"Gray 56', Maguire 90 +2'",False,FT
+3,False,29.0,15.0,14.0,2.0,1026,Liverpool,LIV,Brighton and Hove Albion,BHA,LIVBHA,Anfield,25-08-2018,17:30:00,53294.0,1-0,1-0,1.0,0.0,Salah 23',,False,FT
+3,False,29.0,15.0,14.0,2.0,1027,Watford,WAT,Crystal Palace,CRY,WATCRY,Vicarage Road,26-08-2018,13:30:00,20014.0,0-0,2-1,2.0,1.0,"Pereyra 53', Holebas 71'",Zaha 78',False,FT
+3,False,29.0,15.0,14.0,2.0,1028,Fulham,FUL,Burnley,BUR,FULBUR,Craven Cottage,26-08-2018,16:00:00,23438.0,3-2,4-2,4.0,2.0,"Seri 4', Mitrović 36', Mitrović 38', Schürrle 83'","Hendrick 10', Tarkowski 54'",False,FT
+3,False,29.0,15.0,14.0,2.0,1029,Newcastle United,NEW,Chelsea,CHE,NEWCHE,St. James' Park,26-08-2018,16:00:00,51790.0,0-0,1-2,1.0,2.0,Joselu 83',"Hazard 76' (P), Yedlin 87' (OG)",False,FT
+3,False,29.0,15.0,14.0,2.0,1030,Manchester United,MUN,Tottenham Hotspur,TOT,MUNTOT,Old Trafford,27-08-2018,20:00:00,74400.0,0-0,0-3,0.0,3.0,,"Kane 50', Moura 52', Moura 84'",False,FT
+4,False,27.0,12.0,15.0,1.0,1031,Leicester City,LEI,Liverpool,LIV,LEILIV,King Power Stadium,01-09-2018,12:30:00,32149.0,0-2,1-2,1.0,2.0,Ghezzal 63',"Mané 10', Firmino 45'",False,FT
+4,False,27.0,12.0,15.0,1.0,1032,Brighton and Hove Albion,BHA,Fulham,FUL,BHAFUL,Amex Stadium,01-09-2018,15:00:00,30526.0,0-1,2-2,2.0,2.0,"Murray 67', Murray 84' (P)","Schürrle 43', Mitrović 62'",False,FT
+4,False,27.0,12.0,15.0,1.0,1033,Chelsea,CHE,Bournemouth,BOU,CHEBOU,Stamford Bridge,01-09-2018,15:00:00,40178.0,0-0,2-0,2.0,0.0,"Pedro  72', Hazard 85'",,False,FT
+4,False,27.0,12.0,15.0,1.0,1034,Crystal Palace,CRY,Southampton,SOU,CRYSOU,Selhurst Park,01-09-2018,15:00:00,25495.0,0-0,0-2,0.0,2.0,,"Ings 47', Højbjerg 90 +2'",False,FT
+4,False,27.0,12.0,15.0,1.0,1035,Everton,EVE,Huddersfield Town,HUD,EVEHUD,Goodison Park,01-09-2018,15:00:00,38767.0,1-1,1-1,1.0,1.0,Calvert-Lewin 36',Billing 34',False,FT
+4,False,27.0,12.0,15.0,1.0,1036,West Ham United,WHU,Wolverhampton Wanderers,WOL,WHUWOL,London Stadium,01-09-2018,15:00:00,56947.0,0-0,0-1,0.0,1.0,,Traoré 90 +3',False,FT
+4,False,27.0,12.0,15.0,1.0,1037,Manchester City,MCI,Newcastle United,NEW,MCINEW,Etihad Stadium,01-09-2018,17:30:00,53946.0,1-1,2-1,2.0,1.0,"Sterling 8', Walker 52'",Yedlin 30',False,FT
+4,False,27.0,12.0,15.0,1.0,1038,Cardiff City,CAR,Arsenal,ARS,CARARS,Cardiff City Stadium,02-09-2018,13:30:00,32316.0,1-1,2-3,2.0,3.0,"Mustafi 11', Aubameyang 62', Lacazette 81'","Camarasa 45 +2', Ward 70'",False,FT
+4,False,27.0,12.0,15.0,1.0,1039,Burnley,BUR,Manchester United,MUN,BURMUN,Turf Moor,02-09-2018,16:00:00,21525.0,0-2,0-2,0.0,2.0,,"Lukaku 27', Lukaku 44'",False,FT
+4,False,27.0,12.0,15.0,1.0,1040,Watford,WAT,Tottenham Hotspur,TOT,WATTOT,Vicarage Road,02-09-2018,16:00:00,20141.0,0-0,2-1,2.0,1.0,"Deeney 69', Cathcart 76'",Doucouré 53' (OG),False,FT
+5,True,,,,,1041,Tottenham Hotspur,TOT,Liverpool,LIV,TOTLIV,Wembley Stadium,15-09-2018,12:30:00,,,,,,,,False,
+5,True,,,,,1042,Bournemouth,BOU,Leicester City,LEI,BOULEI,Vitality Stadium,15-09-2018,15:00:00,,,,,,,,False,
+5,True,,,,,1043,Chelsea,CHE,Cardiff City,CAR,CHECAR,Stamford Bridge,15-09-2018,15:00:00,,,,,,,,False,
+5,True,,,,,1044,Huddersfield Town,HUD,Crystal Palace,CRY,HUDCRY,John Smith's Stadium,15-09-2018,15:00:00,,,,,,,,False,
+5,True,,,,,1045,Manchester City,MCI,Fulham,FUL,MCIFUL,Etihad Stadium,15-09-2018,15:00:00,,,,,,,,False,
+5,True,,,,,1046,Newcastle United,NEW,Arsenal,ARS,NEWARS,St. James' Park,15-09-2018,15:00:00,,,,,,,,False,
+5,True,,,,,1047,Watford,WAT,Manchester United,MUN,WATMUN,Vicarage Road,15-09-2018,17:30:00,,,,,,,,False,
+5,True,,,,,1048,Wolverhampton Wanderers,WOL,Burnley,BUR,WOLBUR,Molineux Stadium,16-09-2018,13:30:00,,,,,,,,False,
+5,True,,,,,1049,Everton,EVE,West Ham United,WHU,EVEWHU,Goodison Park,16-09-2018,16:00:00,,,,,,,,False,
+5,True,,,,,1050,Southampton,SOU,Brighton and Hove Albion,BHA,SOUBHA,St. Mary's Stadium,17-09-2018,20:00:00,,,,,,,,False,
+6,False,,,,,1051,Fulham,FUL,Watford,WAT,FULWAT,Craven Cottage,22-09-2018,12:30:00,,,,,,,,False,
+6,False,,,,,1052,Burnley,BUR,Bournemouth,BOU,BURBOU,Turf Moor,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1053,Cardiff City,CAR,Manchester City,MCI,CARMCI,Cardiff City Stadium,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1054,Crystal Palace,CRY,Newcastle United,NEW,CRYNEW,Selhurst Park,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1055,Leicester City,LEI,Huddersfield Town,HUD,LEIHUD,King Power Stadium,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1056,Liverpool,LIV,Southampton,SOU,LIVSOU,Anfield,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1057,Manchester United,MUN,Wolverhampton Wanderers,WOL,MUNWOL,Old Trafford,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1058,Brighton and Hove Albion,BHA,Tottenham Hotspur,TOT,BHATOT,Amex Stadium,22-09-2018,15:00:00,,,,,,,,False,
+6,False,,,,,1059,West Ham United,WHU,Chelsea,CHE,WHUCHE,London Stadium,23-09-2018,17:30:00,,,,,,,,False,
+6,False,,,,,1060,Arsenal,ARS,Everton,EVE,ARSEVE,Emirates Stadium,23-09-2018,20:00:00,,,,,,,,False,
+7,False,,,,,1061,West Ham United,WHU,Manchester United,MUN,WHUMUN,London Stadium,29-09-2018,12:30:00,,,,,,,,False,
+7,False,,,,,1062,Arsenal,ARS,Watford,WAT,ARSWAT,Emirates Stadium,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1063,Everton,EVE,Fulham,FUL,EVEFUL,Goodison Park,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1064,Huddersfield Town,HUD,TottenhamHotspur,TOT,HUDTOT,John Smith's Stadium,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1065,Manchester City,MCI,Brighton and Hove Albion,BHA,MCIBHA,Etihad Stadium,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1066,Newcastle  United,NEW,Leicester City,LEI,NEWLEI,St. James' Park,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1067,Wolverhampton Wanderers,WOL,Southampton,SOU,WOLSOU,Molineux Stadium,29-09-2018,15:00:00,,,,,,,,False,
+7,False,,,,,1068,Chelsea,CHE,Liverpool,LIV,CHELIV,Stamford Bridge,29-09-2018,17:30:00,,,,,,,,False,
+7,False,,,,,1069,Cardiff City,CAR,Burnley,BUR,CARBUR,Cardiff City Stadium,30-09-2018,20:00:00,,,,,,,,False,
+7,False,,,,,1070,Bournemouth,BOU,Crystal Palace,CRY,BOUCRY,Vitality Stadium,1-10-2018,20:00:00,,,,,,,,False,

@@ -1,0 +1,15 @@
+id,club_code,first_name,middle_name,last_name,jersey_name,jersey_number,number_of_clean_sheets,oppositions
+3324,BOU,Asmir,,Begović,Begović,27,1,['CAR-(H)']
+4725,WAT,Ben,,Foster,Foster,26,1,['BHA-(H)']
+3801,CHE,Kepa,,Arrizabalaga,Arrizabalaga,1,2,"['HUD-(A)', 'BOU-(H)']"
+3713,CRY,Wayne,,Hennessey,Hennessey,13,1,['FUL-(A)']
+4213,LIV,Alisson,,Becker,A.Becker,13,3,"['WHU-(H)', 'CRY-(A)', 'BHA-(H)']"
+3201,SOU,Alex,,McCarthy,McCarthy,1,2,"['BUR-(H)', 'CRY-(A)']"
+3417,BUR,Joe,,Hart,Hart,20,1,['SOU-(A)']
+4321,MCI,Ederson,Santana,de Moraes,Ederson,31,1,['SOU-(A)']
+4001,CAR,Neil,,Etheridge,Etheridge,1,2,"['NEW-(H)', 'HUD-(A)']"
+4512,NEW,Martin,,Dúbravka,Dúbravka,12,1,['CAR-(A)']
+3901,LEI,Kasper,,Schmeichel,Schmeichel,1,1,['WOL-(H)']
+4601,TOT,Hugo,,Lloris,Lloris,1,1,['MUN-(A)']
+4908,WOL,Rui,,Patrício,Patrício,11,1,['WHU-(A)']
+4401,MUN,David,,De Gea,De Gea,1,1,['BUR-(A)']

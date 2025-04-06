@@ -1,0 +1,578 @@
+id,club_code,current_club,previous_club,first_name,middle_name,last_name,jersey_name,jersey_number,nationality,position,appearances,substitute_appearances,goals_scored,own_goals,assists_made
+3001,ARS,Arsenal,Chelsea,Petr,,Čech,Čech,1,Czech Republic,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3002,ARS,Arsenal,Barcelona,Héctor,,Bellerin,Bellerin,2,Spain,Defender,4.0,0.0,0.0,0.0,1.0
+3003,ARS,Arsenal,Basel,Mohamed,,Elneny,Elneny,4,Egypt,Midfielder,,,,,
+3004,ARS,Arsenal,Borussia Dortmund,Sokratis,,Papastathopoulos,Sokratis,5,Greece,Defender,4.0,0.0,0.0,0.0,0.0
+3005,ARS,Arsenal,Lorient,Laurent,,Koscielny,Koscielny,6,France,Defender,,,,,
+3006,ARS,Arsenal,Manchester United,Henrikh,,Mkhitaryan,Mkhitaryan,7,Armenia,Midfielder,4.0,1.0,1.0,0.0,1.0
+3007,ARS,Arsenal,Cardiff City,Aaron,,Ramsey,Ramsey,8,Wales,Midfielder,4.0,1.0,0.0,0.0,0.0
+3008,ARS,Arsenal,Lyon,Alexandre,,Lacazette,Lacazette,9,France,Forward,4.0,3.0,1.0,0.0,1.0
+3009,ARS,Arsenal,Real Madrid,Mesut,,Özil,Özil,10,Germany,Midfielder,3.0,0.0,0.0,0.0,0.0
+3010,ARS,Arsenal,Sampdoria,Lucas,,Torreira,Torreira,11,Uruguay,Midfielder,4.0,4.0,0.0,0.0,1.0
+3011,ARS,Arsenal,Juventus,Stephan,,Lichtsteiner,Lichtsteiner,12,Switzerland,Defender,1.0,1.0,0.0,0.0,0.0
+3012,ARS,Arsenal,Borusia Dortmund,Pierre-Emerick,,Aubameyang,Aubameyang,14,Gabon,Forward,4.0,0.0,1.0,0.0,0.0
+3013,ARS,Arsenal,,Ainsley,,Maitland-Niles,Maitland-Niles,15,England,Midfielder,1.0,0.0,0.0,0.0,0.0
+3014,ARS,Arsenal,Bolton Wanderers,Rob,,Holding,Holding,16,England,Defender,,,,,
+3015,ARS,Arsenal,,Alex,,Iwobi,Iwobi,17,Nigeria,Midfielder,2.0,0.0,1.0,0.0,1.0
+3016,ARS,Arsenal,Málaga,Nacho,,Monreal,Monreal,18,Spain,Defender,3.0,0.0,1.0,0.0,0.0
+3017,ARS,Arsenal,Bayer Leverkusen,Bernd,,Leno,Leno,19,Germany,Goalkeeper,,,,,
+3018,ARS,Arsenal,Valencia,Shkodran,,Mustafi,Mustafi,20,Germany,Defender,4.0,0.0,1.0,0.0,0.0
+3019,ARS,Arsenal,Manchester United,Danny,,Welbeck,Welbeck,23,England,Forward,2.0,2.0,1.0,0.0,0.0
+3020,ARS,Arsenal,Charlton Athletic,Carl,,Jenkinson,Jenkinson,25,England,Defender,,,,,
+3021,ARS,Arsenal,Independiente,Emiliano,,Martinez,Martinez,26,Argentina,Goalkeeper,,,,,
+3022,ARS,Arsenal,PAS Giannina,Konstantinos,,Mavropanos,Mavropanos,27,Greece,Defender,,,,,
+3023,ARS,Arsenal,Lorient,Mattéo,,Guendouzi,Guendouzi,29,France,Midfielder,4.0,0.0,0.0,0.0,0.0
+3024,ARS,Arsenal,Schalke,Sead,,Kolašinac,Kolašinac,31,Bosnia and Herzegovina,Defender,,,,,
+3025,ARS,Arsenal,Borussia Mönchengladbach,Granit,,Xhaka,Xhaka,34,Switzerland,Midfielder,4.0,0.0,0.0,0.0,1.0
+3101,HUD,Huddersfield Town,Mainz,Jonas,,Lössl,Lössl,1,Denmark,Goalkeeper,2.0,1.0,0.0,0.0,0.0
+3102,HUD,Huddersfield Town,Manchester City,Tommy,,Smith,Smith,2,England,Defender,1.0,0.0,0.0,0.0,0.0
+3103,HUD,Huddersfield Town,Monaco,Terence,,Kongolo,Kongolo,5,Netherlands,Defender,4.0,0.0,0.0,1.0,0.0
+3104,HUD,Huddersfield Town,Watford,Jonathan,,Hogg,Hogg,6,England,Midfielder,2.0,0.0,0.0,0.0,0.0
+3105,HUD,Huddersfield Town,FC Groningen,Juninho,,Bacuna,Bacuna,7,Netherlands,Midfielder,,,,,
+3106,HUD,Huddersfield Town,Esbjerg,Philip,,Billing,Billing,8,Denmark,Midfielder,4.0,0.0,1.0,0.0,0.0
+3107,HUD,Huddersfield Town,Ingolstadt,Elias,,Kachunga,Kachunga,9,Germany,Forward,1.0,1.0,0.0,0.0,0.0
+3108,HUD,Huddersfield Town,Manchester City,Aaron,,Mooy,Mooy,10,Australia,Midfielder,3.0,0.0,0.0,0.0,0.0
+3109,HUD,Huddersfield Town,Monaco,Adama,,Diakhaby,Diakhaby,11,France,Forward,4.0,2.0,0.0,0.0,0.0
+3110,HUD,Huddersfield Town,Leicester City,Ben,,Hamer,Hamer,12,England,Goalkeeper,3.0,0.0,0.0,0.0,0.0
+3111,HUD,Huddersfield Town,Stoke City,Ramadan,,Sobhi,Sobhi,14,Egypt,Midfielder,1.0,1.0,0.0,0.0,0.0
+3112,HUD,Huddersfield Town,Kaiserslautern,Chris,,Löwe,Löwe,15,Germany,Defender,3.0,0.0,0.0,0.0,0.0
+3113,HUD,Huddersfield Town,Wolverhampton Wanderers,Rajiv,,van La Parra,van La Parra,17,Netherlands,Midfielder,2.0,0.0,0.0,0.0,0.0
+3114,HUD,Huddersfield Town,Montpellier,Isaac,,Mbenza,Mbenza,18,Belgium,Midfielder,1.0,1.0,0.0,0.0,0.0
+3115,HUD,Huddersfield Town,Reading,Daniel,,Williams,Williams,19,United States,Midfielder,,,,,
+3116,HUD,Huddersfield Town,FC Porto,Laurent,,Depoitre,Depoitre,20,Belgium,Forward,4.0,4.0,0.0,0.0,0.0
+3117,HUD,Huddersfield Town,Norwich City,Alex,,Pritchard,Pritchard,21,England,Forward,2.0,0.0,0.0,0.0,0.0
+3118,HUD,Huddersfield Town,Union Berlin,Collin,,Quaner,Quaner,23,Germany,Forward,,,,,
+3119,HUD,Huddersfield Town,Montpellier,Steve,,Mounié,Mounié,24,Benin,Forward,4.0,0.0,0.0,0.0,1.0
+3120,HUD,Huddersfield Town,FC København,Mathias,Zanka,Jørgensen,Jørgensen,25,Denmark,Defender,3.0,0.0,0.0,0.0,0.0
+3121,HUD,Huddersfield Town,1860 Munich,Christopher,,Schindler,Schindler,26,Germany,Defender,4.0,0.0,0.0,0.0,0.0
+3122,HUD,Huddersfield Town,Borussia Dortmund,Jon,Gorenc,Stanković,Stanković,27,Slovenia,Defender,1.0,0.0,1.0,0.0,0.0
+3123,HUD,Huddersfield Town,Nürnberg,Abdelhamid,,Sabiri,Sabiri,29,Morocco,Midfielder,1.0,0.0,0.0,0.0,0.0
+3124,HUD,Huddersfield Town,,Ryan,,Schofield,Schofield,31,England,Goalkeeper,,,,,
+3125,HUD,Huddersfield Town,Ingolstadt,Florent,,Hadergjonaj,Hadergjonaj,33,Switzerland,Defender,4.0,0.0,0.0,0.0,0.0
+3126,HUD,Huddersfield Town,Borussia Dortmund,Eric,,Durm,Durm,37,Germany,Defender,1.0,1.0,0.0,0.0,0.0
+3201,SOU,Southampton,Crystal Palace,Alex,,McCarthy,McCarthy,1,England,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3202,SOU,Southampton,Sporting CP,Cédric,,Soares,Cédric,2,Portugal,Defender,4.0,0.0,0.0,0.0,1.0
+3203,SOU,Southampton,VVV Venlo,Maya,,Yoshida,Yoshida,3,Japan,Defender,,,,,
+3204,SOU,Southampton,Borussia Mönchengladbach,Jannik,,Vestergaard,Vestergaard,4,Denmark,Defender,3.0,0.0,0.0,0.0,0.0
+3205,SOU,Southampton,Plymouth Argyle,Jack,,Stephens,Stephens,5,England,Defender,2.0,0.0,0.0,0.0,0.0
+3206,SOU,Southampton,Lazio,Wesley,,Hoedt,Hoedt,6,Netherlands,Defender,4.0,0.0,0.0,0.0,0.0
+3207,SOU,Southampton,West Brom Albion,Shane,,Long,Long,7,Ireland,Forward,3.0,1.0,0.0,0.0,0.0
+3208,SOU,Southampton,Rangers,Steven,,Davis,Davis,8,Northern Ireland,Midfielder,,,,,
+3209,SOU,Southampton,Liverpool,Danny,,Ings,Ings,9,England,Forward,4.0,1.0,2.0,0.0,0.0
+3210,SOU,Southampton,Queens Park Rangers,Charlie,,Austin,Austin,10,England,Forward,4.0,2.0,0.0,0.0,0.0
+3211,SOU,Southampton,Basel,Mohamed,,Elyounoussi,Elyounoussi,11,Norway,Forward,3.0,1.0,0.0,0.0,0.0
+3213,SOU,Southampton,Chelsea,Oriol,,Romeu,Romeu,14,Spain,Midfielder,4.0,2.0,0.0,0.0,0.0
+3214,SOU,Southampton,Plymouth Argyle,Sam,,Gallagher,Gallagher,15,England,Forward,,,,,
+3215,SOU,Southampton,,James,,Ward-Prowse,Ward-Prowse,16,England,Midfielder,1.0,0.0,0.0,0.0,0.0
+3216,SOU,Southampton,Celtic,Stuart,,Armstrong,Armstrong,17,Scotland,Midfielder,3.0,2.0,0.0,0.0,0.0
+3217,SOU,Southampton,Juventus,Mario,,Lemina,Lemina,18,Gabon,Midfielder,4.0,0.0,0.0,0.0,1.0
+3219,SOU,Southampton,Napoli,Manolo,,Gabbiadini,Gabbiadini,20,Italy,Forward,2.0,2.0,0.0,0.0,0.0
+3220,SOU,Southampton,Chelsea,Ryan,,Bertrand,Bertrand,21,England,Defender,4.0,0.0,1.0,0.0,0.0
+3221,SOU,Southampton,Norwich City,Nathan,,Redmond,Redmond,22,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3222,SOU,Southampton,Bayern Munich,Pierre-Emile,,Højbjerg,Højbjerg,23,Denmark,Midfielder,2.0,0.0,1.0,0.0,0.0
+3223,SOU,Southampton,Manchester City,Angus,,Gunn,Gunn,28,England,Goalkeeper,,,,,
+3224,SOU,Southampton,,Alfie,,Jones,Jones,32,England,Defender,,,,,
+3225,SOU,Southampton,,Matt,,Targett,Targett,33,England,Defender,1.0,1.0,0.0,0.0,1.0
+3226,SOU,Southampton,Lech Poznań,Jan,,Bednarek,Bednarek,35,Poland,Defender,,,,,
+3228,SOU,Southampton,Shrewsbury Town,Harry,,Lewis,Lewis,41,England,Goalkeeper,,,,,
+3230,SOU,Southampton,Rennes,Yan,,Valery,Valery,43,France,Defender,,,,,
+3231,SOU,Southampton,Celtic,Fraser,,Forster,Forster,44,England,Goalkeeper,,,,,
+3301,BOU,Bournemouth,Southampton,Artur,,Boruc,Boruc,1,Poland,Goalkeeper,,,,,
+3302,BOU,Bournemouth,Charlton Athletic,Simon,,Francis,Francis,2,England,Defender,3.0,2.0,0.0,0.0,1.0
+3303,BOU,Bournemouth,Brighton and Hove Albion,Steve,,Cook,Cook,3,England,Defender,4.0,0.0,1.0,0.0,1.0
+3304,BOU,Bournemouth,Newcastle United,Dan,,Gosling,Gosling,4,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3305,BOU,Bournemouth,Chelsea,Nathan,,Aké,Aké,5,Netherlands,Defender,4.0,0.0,1.0,0.0,0.0
+3306,BOU,Bournemouth,Norwich City,Andrew,,Surman,Surman,6,England,Midfielder,3.0,0.0,0.0,0.0,0.0
+3307,BOU,Bournemouth,Hereford United,Marc,,Pugh,Pugh,7,England,Midfielder,,,,,
+3308,BOU,Bournemouth,Levante,Jefferson,,Lerma,Lerma,8,Colombia,Midfielder,1.0,0.0,0.0,0.0,0.0
+3309,BOU,Bournemouth,Le Havre,Lys,,Mousset,Mousset,9,France,Forward,3.0,3.0,0.0,0.0,0.0
+3310,BOU,Bournemouth,Liverpool,Jordon,,Ibe,Ibe,10,England,Midfielder,2.0,2.0,0.0,0.0,0.0
+3311,BOU,Bournemouth,Leyton Orient,Charlie,,Daniels,Daniels,11,England,Defender,3.0,0.0,0.0,0.0,0.0
+3312,BOU,Bournemouth,Sheffield United,Aaron,,Ramsdale,Ramsdale,12,England,Goalkeeper,,,,,
+3313,BOU,Bournemouth,Coventry City,Callum,,Wilson,Wilson,13,England,Forward,4.0,0.0,2.0,0.0,1.0
+3314,BOU,Bournemouth,Tottenham Hotspur,Adam,,Smith,Smith,15,England,Defender,4.0,0.0,0.0,0.0,0.0
+3315,BOU,Bournemouth,Leeds United,Lewis,,Cook,Cook,16,England,Midfielder,3.0,3.0,0.0,0.0,0.0
+3316,BOU,Bournemouth,Blackburn Rovers,Joshua,,King,King,17,Norway,Forward,4.0,0.0,1.0,0.0,0.0
+3317,BOU,Bournemouth,Sunderland,Jermain,,Defoe,Defoe,18,England,Forward,1.0,1.0,0.0,0.0,0.0
+3318,BOU,Bournemouth,Burnley,Junior,,Stanislas,Stanislas,19,England,Midfielder,,,,,
+3319,BOU,Bournemouth,Sheffield United,David,,Brooks,Brooks,20,England,Midfielder,3.0,0.0,0.0,0.0,0.0
+3320,BOU,Bournemouth,Leganés,Diego,,Rico,Rico,21,Spain,Defender,1.0,0.0,0.0,0.0,0.0
+3321,BOU,Bournemouth,Aberdeen,Ryan,,Fraser,Fraser,24,Scotland,Midfielder,4.0,0.0,1.0,0.0,1.0
+3322,BOU,Bournemouth,,Jack,,Simpson,Simpson,25,England,Defender,,,,,
+3323,BOU,Bournemouth,Ipswich Town,Tyrone,,Mings,Mings,26,England,Defender,,,,,
+3324,BOU,Bournemouth,Chelsea,Asmir,,Begović,Begović,27,Bosnia and Herzegovina,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3325,BOU,Bournemouth,,Kyle,,Taylor,Taylor,28,England,Midfielder,,,,,
+3326,BOU,Bournemouth,Watford,Will,,Dennis,Dennis,40,England,Goalkeeper,,,,,
+3327,BOU,Bournemouth,,Jordan,,Holmes,Holmes,41,Australia,Goalkeeper,,,,,
+3328,BOU,Bournemouth,Shamrock Rovers,Mark,,Travers,Travers,42,Ireland,Goalkeeper,,,,,
+3330,BOU,Bournemouth,,Corey,,Jordan,Jordan,46,England,Defender,,,,,
+3331,BOU,Bournemouth,Barnet,Frank,,Vincent,Vincent,48,England,Midfielder,,,,,
+3332,BOU,Bournemouth,West Ham United,Charlie,,Seaman,Seaman,49,England,Defender,,,,,
+3333,BOU,Bournemouth,,Sam,,Sherring,Sherring,50,England,Defender,,,,,
+3334,BOU,Bournemouth,Burnley,Shaun,,Hobson,Hobson,51,England,Defender,,,,,
+3335,BOU,Bournemouth,Millwall,Mikael,,Ndjoli,Ndjoli,52,England,Forward,,,,,
+3336,BOU,Bournemouth,St Kevin's Boys,Gavin,,Kilkenny,Kilkenny,53,Ireland,Midfielder,,,,,
+3337,BOU,Bournemouth,Viitorul Mihai Georgescu,Mihai,,Dobre,Dobre,54,Romania,Midfielder,,,,,
+3338,BOU,Bournemouth,,Tyler,,Cordner,Cordner,55,England,Defender,,,,,
+3339,BOU,Bournemouth,Arsenal,Jaidon,,Anthony,Anthony,56,England,Forward,,,,,
+3340,BOU,Bournemouth,,Keelan,,O'Connell,O'Connell,57,England,Midfielder,,,,,
+3341,BOU,Bournemouth,Watford,Dinesh,,Gillela,Gillela,58,England,Defender,,,,,
+3342,BOU,Bournemouth,,Nnamdi,,Ofoborh,Ofoborh,59,England,Midfielder,,,,,
+3343,BOU,Bournemouth,Eastleigh,James,,Boote,Boote,60,England,Midfielder,,,,,
+3401,BUR,Burnley,Bristol City,Thomas,,Heaton,Heaton,1,England,Goalkeeper,,,,,
+3402,BUR,Burnley,Aston Villa,Matthew,,Lowton,Lowton,2,England,Defender,3.0,0.0,0.0,0.0,0.0
+3403,BUR,Burnley,Leeds United,Charlie,,Taylor,Taylor,3,England,Defender,4.0,3.0,0.0,0.0,0.0
+3404,BUR,Burnley,Swansea City,Jack,,Cork,Cork,4,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3405,BUR,Burnley,Brentford,James,,Tarkowski,Tarkowski,5,England,Defender,4.0,0.0,2.0,0.0,0.0
+3406,BUR,Burnley,Manchester City,Ben,,Mee,Mee,6,England,Defender,4.0,0.0,0.0,0.0,1.0
+3407,BUR,Burnley,Charlton Athletic,Jóhann,,Guðmundsson,Guðmundsson,7,Iceland,Midfielder,3.0,0.0,0.0,0.0,1.0
+3408,BUR,Burnley,Wolverhampton Wanderers,Sam,,Vokes,Vokes,9,Wales,Forward,4.0,4.0,0.0,0.0,0.0
+3409,BUR,Burnley,Brighton and Hove Albion,Ashley,,Barnes,Barnes,10,Austria,Forward,4.0,4.0,0.0,0.0,0.0
+3410,BUR,Burnley,Leeds United,Chris,,Wood,Wood,11,New Zealand,Forward,4.0,0.0,0.0,0.0,0.0
+3411,BUR,Burnley,Norwich City,Robbie,,Brady,Brady,12,Ireland,Midfielder,,,,,
+3412,BUR,Burnley,Derby County,Jeff,,Hendrick,Hendrick,13,Ireland,Midfielder,4.0,0.0,1.0,0.0,0.0
+3413,BUR,Burnley,Middlesbrough,Ben,,Gibson,Gibson,14,England,Defender,,,,,
+3414,BUR,Burnley,Anderlecht,Steven,,Defour,Defour,16,Belgium,Midfielder,,,,,
+3415,BUR,Burnley,Aston Villa,Ashley,,Westwood,Westwood,18,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3417,BUR,Burnley,Manchester City,Joe,,Hart,Hart,20,England,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3419,BUR,Burnley,Preston North End,Anders,,Lindegaard,Lindegaard,22,Denmark,Goalkeeper,,,,,
+3420,BUR,Burnley,Wolverhampton Wanderers,Stephen,,Ward,Ward,23,Ireland,Defender,3.0,0.0,0.0,0.0,0.0
+3421,BUR,Burnley,Everton,Aaron,,Lennon,Lennon,25,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3422,BUR,Burnley,Stoke City,Phillip,,Bardsley,Bardsley,26,Scotland,Defender,1.0,0.0,0.0,0.0,0.0
+3423,BUR,Burnley,Derby County,Matěj,,Vydra,Vydra,27,Czech Republic,Forward,1.0,1.0,0.0,0.0,0.0
+3424,BUR,Burnley,Cork City,Kevin,,Long,Long,28,Ireland,Defender,,,,,
+3425,BUR,Burnley,Charlton Athletic,Nick,,Pope,Pope,29,England,Goalkeeper,,,,,
+3426,BUR,Burnley,Birmingham City,Adam,,Legzdins,Legzdins,30,England,Goalkeeper,,,,,
+3427,BUR,Burnley,,Dwight,,McNeil,McNeil,31,England,Forward,1.0,0.0,0.0,0.0,0.0
+3428,BUR,Burnley,AFC Wimbledon,Daniel,,Agyei,Agyei,32,England,Forward,,,,,
+3501,EVE,Everton,Sunderland,Jordan,,Pickford,Pickford,1,England,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3502,EVE,Everton,Barnsley,Mason,,Holgate,Holgate,2,England,Defender,4.0,1.0,0.0,0.0,0.0
+3503,EVE,Everton,Wigan Athletic,Leighton,,Baines,Baines,3,England,Defender,4.0,1.0,0.0,0.0,0.0
+3504,EVE,Everton,Burnley,Michael,,Keane,Keane,4,England,Defender,3.0,0.0,1.0,0.0,1.0
+3505,EVE,Everton,Sheffield United,Phil,,Jagielka,Jagielka,6,England,Defender,1.0,0.0,0.0,0.0,0.0
+3507,EVE,Everton,Barcelona,André,,Gomes,Gomes,8,Portugal,Midfielder,,,,,
+3509,EVE,Everton,Swansea City,Gylfi,,Sigurðsson,Sigurðsson,10,Iceland,Midfielder,4.0,0.0,0.0,0.0,1.0
+3510,EVE,Everton,Arsenal,Theo,,Walcott,Walcott,11,England,Forward,4.0,0.0,2.0,0.0,1.0
+3511,EVE,Everton,Barcelona,Lucas,,Digne,Digne,12,France,Defender,2.0,1.0,0.0,0.0,1.0
+3512,EVE,Everton,Barcelona,Yerry,,Mina,Mina,13,Colombia,Defender,,,,,
+3513,EVE,Everton,Beşiktaş,Cenk,,Tosun,Tosun,14,Turkey,Forward,4.0,0.0,0.0,0.0,2.0
+3515,EVE,Everton,Wigan Athletic,James,,McCarthy,McCarthy,16,Ireland,Midfielder,,,,,
+3516,EVE,Everton,Aston Villa,Idrissa,,Gueye,Gueye,17,Senegal,Midfielder,3.0,0.0,0.0,0.0,0.0
+3517,EVE,Everton,Manchester United,Morgan,,Schneiderlin,Schneiderlin,18,France,Midfielder,3.0,0.0,0.0,0.0,1.0
+3518,EVE,Everton,Lokomotiv Moscow,Oumar,,Niasse,Niasse,19,Senegal,Forward,3.0,3.0,0.0,0.0,0.0
+3519,EVE,Everton,Shakhtar Donetsk,Bernard,,Duarte,Bernard,20,Brazil,Midfielder,1.0,1.0,0.0,0.0,0.0
+3521,EVE,Everton,Fulham,Maarten,,Stekelenburg,Stekelenburg,22,Netherlands,Goalkeeper,,,,,
+3522,EVE,Everton,Sligo Rovers,Séamus,,Coleman,Coleman,23,Ireland,Defender,4.0,0.0,0.0,0.0,0.0
+3523,EVE,Everton,,Tom,,Davies,Davies,26,England,Midfielder,3.0,1.0,0.0,0.0,0.0
+3524,EVE,Everton,Hajduk Split,Nikola,,Vlašić,Vlašić,27,Croatia,Midfielder,,,,,
+3525,EVE,Everton,,Kieran,,Dowell,Dowell,28,England,Midfielder,,,,,
+3526,EVE,Everton,Sheffield United,Dominic,,Calvert-Lewin,Calvert-Lewin,29,England,Forward,3.0,2.0,1.0,0.0,0.0
+3527,EVE,Everton,Watford,Richarlison,,de Andrade,Richarlison,30,Brazil,Forward,3.0,0.0,3.0,0.0,0.0
+3528,EVE,Everton,Charlton Athletic,Ademola,,Lookman,Lookman,31,England,Forward,1.0,1.0,0.0,0.0,0.0
+3530,EVE,Everton,,Beni,,Baningime,Baningime,34,England,Midfielder,,,,,
+3531,EVE,Everton,Fulham,Dennis,,Adeniran,Adeniran,35,England,Midfielder,,,,,
+3533,EVE,Everton,Shelbourne,Mateusz,,Hewelt,Hewelt,41,Poland,Goalkeeper,,,,,
+3534,EVE,Everton,,Jonjoe,,Kenny,Kenny,43,England,Defender,,,,,
+3535,EVE,Everton,Chelsea,Kurt,,Zouma,Zouma,5,France,Defender,2.0,1.0,0.0,0.0,0.0
+3536,EVE,Everton,Arsenal,João,,Virgínia,Virgínia,33,Portugal,Goalkeeper,,,,,
+3601,BHA,Brighton and Hove Albion,Valencia,Matthew,,Ryan,Ryan,1,Australia,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3602,BHA,Brighton and Hove Albion,Valencia,Bruno,,Saltor,Saltor,2,Spain,Defender,1.0,0.0,0.0,0.0,0.0
+3603,BHA,Brighton and Hove Albion,Wigan Athletic,Gaëtan,,Bong,Bong,3,Cameroon,Defender,4.0,1.0,0.0,0.0,0.0
+3604,BHA,Brighton and Hove Albion,Blackburn Rovers,Shane,,Duffy,Duffy,4,Ireland,Defender,4.0,0.0,1.0,0.0,0.0
+3605,BHA,Brighton and Hove Albion,,Lewis,,Dunk,Dunk,5,England,Defender,3.0,0.0,0.0,0.0,0.0
+3606,BHA,Brighton and Hove Albion,Charlton Athletic,Dale,,Stephens,Stephens,6,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3607,BHA,Brighton and Hove Albion,Celtic,Beram,,Kayal,Kayal,7,Israel,Midfielder,1.0,1.0,0.0,0.0,0.0
+3608,BHA,Brighton and Hove Albion,Lille,Yves,,Bissouma,Bissouma,8,Mali,Midfielder,3.0,2.0,0.0,0.0,0.0
+3609,BHA,Brighton and Hove Albion,PSV Eindhoven,Jürgen,,Locadia,Locadia,9,Netherlands,Forward,3.0,3.0,0.0,0.0,0.0
+3610,BHA,Brighton and Hove Albion,Deportivo La Coruña,Florin,,Andone,Andone,10,Romania,Forward,,,,,
+3611,BHA,Brighton and Hove Albion,Standard Liège,Anthony,,Knockaert,Knockaert,11,France,Midfielder,4.0,0.0,0.0,0.0,2.0
+3612,BHA,Brighton and Hove Albion,Ingolstadt,Pascal,,Groß,Groß,13,Germany,Midfielder,4.0,1.0,1.0,0.0,0.0
+3613,BHA,Brighton and Hove Albion,Mainz,Leon,,Balogun,Balogun,14,Nigeria,Defender,2.0,1.0,0.0,0.0,0.0
+3614,BHA,Brighton and Hove Albion,AZ Alkmaar,Alireza,,Jahanbakhsh,Jahanbakhsh,16,Iran,Forward,3.0,3.0,0.0,0.0,0.0
+3615,BHA,Brighton and Hove Albion,Bournemouth,Glenn,,Murray,Murray,17,England,Forward,4.0,0.0,3.0,0.0,0.0
+3616,BHA,Brighton and Hove Albion,Club Brugge,José,,Izquierdo,Izquierdo,19,Colombia,Forward,,,,,
+3617,BHA,Brighton and Hove Albion,Lewes,Solly,,March,March,20,England,Midfielder,4.0,0.0,0.0,0.0,1.0
+3618,BHA,Brighton and Hove Albion,Sporting CP,Matiás,Ezequiel,Schelotto,Schelotto,21,Italy,Defender,,,,,
+3619,BHA,Brighton and Hove Albion,Valencia,Martín,,Montoya,Montoya,22,Spain,Defender,3.0,0.0,0.0,0.0,0.0
+3620,BHA,Brighton and Hove Albion,Sunderland,Jason,,Steele,Steele,23,England,Goalkeeper,,,,,
+3621,BHA,Brighton and Hove Albion,PSV Eindhoven,Davy,,Pröpper,Pröpper,24,Netherlands,Midfielder,4.0,0.0,0.0,0.0,0.0
+3623,BHA,Brighton and Hove Albion,Fulham,David,,Button,Button,27,England,Goalkeeper,,,,,
+3624,BHA,Brighton and Hove Albion,Ingolstadt,Markus,,Suttner,Suttner,29,Austria,Defender,,,,,
+3625,BHA,Brighton and Hove Albion,RB Leipzig,Bernardo,,Fernandes,Bernardo,30,Brazil,Defender,1.0,0.0,0.0,0.0,0.0
+3626,BHA,Brighton and Hove Albion,,Ben,,Barclay,Barclay,35,England,Defender,,,,,
+3627,BHA,Brighton and Hove Albion,IF Brommapojkarna,Viktor,,Gyökeres,Gyökeres,42,Sweden,Forward,,,,,
+3628,BHA,Brighton and Hove Albion,Mervue United,Aaron,,Connolly,Connolly,44,Ireland,Forward,,,,,
+3629,BHA,Brighton and Hove Albion,,Will,,Collar,Collar,58,England,Midfielder,,,,,
+3701,CRY,Crystal Palace,Dundee,Julián,,Speroni,Speroni,1,Argentina,Goalkeeper,,,,,
+3702,CRY,Crystal Palace,Portsmouth,Joel,,Ward,Ward,2,England,Defender,2.0,1.0,0.0,0.0,0.0
+3703,CRY,Crystal Palace,Sunderland,Patrick,,van Aanholt,van Aanholt,3,Netherlands,Defender,4.0,0.0,0.0,0.0,1.0
+3704,CRY,Crystal Palace,Olympiakos,Luka,,Milivojević,Milivojević,4,Serbia,Midfielder,4.0,0.0,0.0,0.0,0.0
+3705,CRY,Crystal Palace,West Ham United,James,,Tomkins,Tomkins,5,England,Defender,2.0,0.0,0.0,0.0,0.0
+3706,CRY,Crystal Palace,Blackburn Rovers,Scott,,Dann,Dann,6,England,Defender,,,,,
+3707,CRY,Crystal Palace,Schalke,Max,,Meyer,Meyer,7,Germany,Midfielder,3.0,3.0,0.0,0.0,0.0
+3708,CRY,Crystal Palace,West Ham United,Cheikhou,,Kouyaté,Kouyaté,8,Senegal,Midfielder,2.0,2.0,0.0,0.0,0.0
+3709,CRY,Crystal Palace,FC Midtjylland,Alexander,,Sørloth,Sørloth,9,Norway,Forward,4.0,4.0,0.0,0.0,0.0
+3710,CRY,Crystal Palace,Newcastle United,Andros,,Townsend,Townsend,10,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+3711,CRY,Crystal Palace,Manchester United,Wilfried,,Zaha,Zaha,11,Ivory Coast,Forward,3.0,0.0,2.0,0.0,0.0
+3712,CRY,Crystal Palace,Liverpool,Mamadou,,Sakho,Sakho,12,France,Defender,4.0,0.0,0.0,0.0,0.0
+3713,CRY,Crystal Palace,Wolverhampton Wanderers,Wayne,,Hennessey,Hennessey,13,Wales,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3714,CRY,Crystal Palace,Leicester City,Jeffrey,,Schlupp,Schlupp,15,Ghana,Defender,4.0,0.0,1.0,0.0,0.0
+3715,CRY,Crystal Palace,Liverpool,Christian,,Benteke,Benteke,17,Belgium,Forward,4.0,0.0,0.0,0.0,0.0
+3716,CRY,Crystal Palace,Wigan Athletic,James,,McArthur,McArthur,18,Scotland,Midfielder,4.0,0.0,0.0,0.0,0.0
+3717,CRY,Crystal Palace,,Jonathan,,Williams,Williams,20,Wales,Midfielder,,,,,
+3718,CRY,Crystal Palace,Sunderland,Connor,,Wickham,Wickham,21,England,Forward,,,,,
+3719,CRY,Crystal Palace,,Sullay,,Kaikai,Kaikai,25,England,Forward,,,,,
+3720,CRY,Crystal Palace,Lille,Pape,N'Diaye,Souaré,Souaré,27,Senegal,Defender,1.0,1.0,0.0,0.0,0.0
+3721,CRY,Crystal Palace,,Aaron,,Wan-Bissaka,Wan-Bissaka,29,England,Defender,3.0,0.0,0.0,0.0,1.0
+3722,CRY,Crystal Palace,Getafe,Vicente,,Guaita,Guaita,31,Spain,Goalkeeper,,,,,
+3723,CRY,Crystal Palace,Liverpool,Martin,,Kelly,Kelly,34,England,Defender,2.0,0.0,0.0,0.0,0.0
+3724,CRY,Crystal Palace,Southampton,Jason,,Puncheon,Puncheon,42,England,Midfielder,,,,,
+3725,CRY,Crystal Palace,Ajax,Jaïro,,Riedewald,Riedewald,44,Netherlands,Midfielder,,,,,
+3726,CRY,Crystal Palace,Swansea City,Jordan,,Ayew,Ayew,14,Ghana,Forward,1.0,0.0,0.0,0.0,0.0
+3727,CRY,Crystal Palace,,Ryan,,Inniss,Inniss,33,England,Defender,,,,,
+3728,CRY,Crystal Palace,,Sam,,Woods,Woods,35,England,Defender,,,,,
+3729,CRY,Crystal Palace,Peterborough United,Dion,,Henry,Henry,36,England,Goalkeeper,,,,,
+3730,CRY,Crystal Palace,Brentford,Giovanni,,McGregor,McGregor,30,England,Midfielder,,,,,
+3801,CHE,Chelsea,Athletic Bilbao,Kepa,,Arrizabalaga,Arrizabalaga,1,Spain,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3802,CHE,Chelsea,Roma,Antonio,,Rüdiger,Rüdiger,2,Germany,Defender,4.0,0.0,0.0,0.0,0.0
+3803,CHE,Chelsea,Fiorentina,Marcos,,Alonso,Marcos.A,3,Spain,Defender,4.0,0.0,1.0,0.0,2.0
+3804,CHE,Chelsea,Barcelona,Cesc,,Fàbregas,Fàbregas,4,Spain,Midfielder,,,,,
+3805,CHE,Chelsea,Napoli,Jorge Luiz,Frello,Filho,Jorginho,5,Italy,Midfielder,4.0,0.0,1.0,0.0,0.0
+3806,CHE,Chelsea,Leicester City,Danny,,Drinkwater,Drinkwater,6,England,Midfielder,,,,,
+3807,CHE,Chelsea,Leicester City,Ngolo,,Kanté,Kanté,7,France,Midfielder,4.0,0.0,1.0,0.0,0.0
+3808,CHE,Chelsea,Everton,Ross,,Barkley,Barkley,8,England,Midfielder,3.0,1.0,0.0,0.0,0.0
+3809,CHE,Chelsea,Lille,Eden,,Hazard,Hazard,10,Belgium,Midfielder,4.0,2.0,2.0,0.0,2.0
+3810,CHE,Chelsea,Barcelona,Pedro,,Rodríguez,Pedro,11,Spain,Midfielder,4.0,1.0,3.0,0.0,0.0
+3811,CHE,Chelsea,,Ruben,,Loftus-Cheek,Loftus-Cheek,12,England,Midfielder,2.0,2.0,0.0,0.0,0.0
+3812,CHE,Chelsea,Manchester City,Wilfredo,,Caballero,Caballero,13,Argentina,Goalkeeper,,,,,
+3813,CHE,Chelsea,Wigan Athletic,Victor,,Moses,Moses,15,Nigeria,Defender,1.0,1.0,0.0,0.0,0.0
+3814,CHE,Chelsea,Real Madrid,Mateo,,Kovačić,Kovačić,17,Croatia,Midfielder,3.0,1.0,0.0,0.0,0.0
+3815,CHE,Chelsea,Arsenal,Olivier,,Giroud,Giroud,18,France,Forward,3.0,3.0,0.0,0.0,1.0
+3817,CHE,Chelsea,,Callum,,Hudson-Odoi,Hudson-Odoi,20,Ghana,Midfielder,,,,,
+3818,CHE,Chelsea,Torino,Davide,,Zappacosta,Zappacosta,21,Italy,Defender,,,,,
+3819,CHE,Chelsea,Anzhi Makhachkala,Willian,,Borges da Silva,Willian,22,Brazil,Midfielder,4.0,1.0,0.0,0.0,1.0
+3820,CHE,Chelsea,Bolton Wanderers,Gary,,Cahill,Cahill,24,England,Defender,,,,,
+3821,CHE,Chelsea,Brøndby,Andreas,,Christensen,Christensen,27,Denmark,Defender,,,,,
+3822,CHE,Chelsea,Marseille,César,,Azpilicueta,Azpilicueta,28,Spain,Defender,4.0,0.0,0.0,0.0,1.0
+3823,CHE,Chelsea,Real Madrid,Álvaro,,Morata,Morata,29,Spain,Forward,4.0,0.0,1.0,0.0,0.0
+3824,CHE,Chelsea,Paris St-Germain,David,,Luiz,Luiz,30,Brazil,Defender,4.0,0.0,0.0,0.0,0.0
+3825,CHE,Chelsea,Huddersfield Town,Robert,,Green,Green,31,England,Goalkeeper,,,,,
+3826,CHE,Chelsea,Roma,Emerson,,Palmieri,Palmieri,33,Brazil,Defender,,,,,
+3827,CHE,Chelsea,Exeter City,Ethan,,Ampadu,Ampadu,44,Wales,Midfielder,,,,,
+3828,CHE,Chelsea,Escola Varsovia,Marcin,,Bułka,Bułka,59,Poland,Goalkeeper,,,,,
+3901,LEI,Leicester City,Leeds United,Kasper,,Schmeichel,Schmeichel,1,Denmark,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+3902,LEI,Leicester City,Queens Park Rangers,Danny,,Simpson,Simpson,2,England,Defender,,,,,
+3903,LEI,Leicester City,,Ben,,Chilwell,Chilwell,3,England,Defender,4.0,0.0,0.0,0.0,0.0
+3904,LEI,Leicester City,Nottingham Forest,Wes,,Morgan,Morgan,5,Jamaica,Defender,3.0,0.0,0.0,0.0,0.0
+3905,LEI,Leicester City,West Brom Albion,Jonny,,Evans,Evans,6,Northern Ireland,Defender,1.0,0.0,0.0,0.0,0.0
+3906,LEI,Leicester City,Birmingham City,Demarai,,Gray,Gray,7,England,Midfielder,4.0,0.0,1.0,0.0,0.0
+3907,LEI,Leicester City,Manchester City,Kelechi,,Iheanacho,Iheanacho,8,Nigeria,Forward,4.0,2.0,0.0,0.0,0.0
+3908,LEI,Leicester City,Fleetwood Town,Jamie,,Vardy,Vardy,9,England,Forward,2.0,1.0,1.0,0.0,0.0
+3909,LEI,Leicester City,Norwich City,James,,Maddison,Maddison,10,England,Midfielder,4.0,0.0,1.0,0.0,1.0
+3910,LEI,Leicester City,Aston Villa,Marc,,Albrighton,Albrighton,11,England,Midfielder,3.0,1.0,0.0,0.0,1.0
+3911,LEI,Leicester City,Wrexham,Danny,,Ward,Ward,12,Wales,Goalkeeper,,,,,
+3912,LEI,Leicester City,FC Porto,Ricardo,,Pereira,Pereira,14,Portugal,Defender,4.0,0.0,0.0,0.0,1.0
+3913,LEI,Leicester City,Hull City,Harry,,Maguire,Maguire,15,England,Defender,4.0,0.0,1.0,0.0,0.0
+3914,LEI,Leicester City,Dinamo Zagreb,Filip,,Benković,Benković,16,Croatia,Defender,,,,,
+3915,LEI,Leicester City,Hull City,Eldin,,Jakupović,Jakupović,17,Switzerland,Goalkeeper,,,,,
+3916,LEI,Leicester City,FC København,Daniel,,Amartey,Amartey,18,Ghana,Midfielder,4.0,2.0,0.0,0.0,0.0
+3918,LEI,Leicester City,Mainz,Shinji,,Okazaki,Okazaki,20,Japan,Forward,2.0,2.0,0.0,0.0,0.0
+3919,LEI,Leicester City,Sevilla,Vicente,,Iborra,Iborra,21,Spain,Midfielder,1.0,1.0,0.0,0.0,0.0
+3920,LEI,Leicester City,Manchester United,Matthew,,James,James,22,England,Midfielder,,,,,
+3921,LEI,Leicester City,Sporting CP,Adrien,,Silva,Silva,23,Portugal,Midfielder,2.0,1.0,0.0,0.0,0.0
+3922,LEI,Leicester City,Nice,Nampalys,,Mendy,Mendy,24,France,Midfielder,3.0,0.0,0.0,0.0,0.0
+3923,LEI,Leicester City,KRC Genk,Wilfred,,Ndidi,Ndidi,25,Nigeria,Midfielder,4.0,0.0,0.0,0.0,0.0
+3924,LEI,Leicester City,Gazélec Ajaccio,Fousseni,,Diabaté,Diabaté,27,Mali,Midfielder,,,,,
+3925,LEI,Leicester City,Schalke,Christian,,Fuchs,Fuchs,28,Austria,Defender,,,,,
+3926,LEI,Leicester City,Atalanta,Yohan,,Benalouane,Benalouane,29,Tunisia,Defender,,,,,
+3927,LEI,Leicester City,Monaco,Rachid,,Ghezzal,Ghezzal,31,Alegria,Midfielder,3.0,2.0,1.0,0.0,0.0
+3928,LEI,Leicester City,Cracovia Kraków,Bartosz,,Kapustka,Kapustka,33,Poland,Midfielder,,,,,
+3929,LEI,Leicester City,,Josh,,Knight,Knight,34,England,Defender,,,,,
+3930,LEI,Leicester City,,Andy,,King,King,37,Wales,Midfielder,,,,,
+3931,LEI,Leicester City,Freiburg,Çağlar,,Söyüncü,Söyüncü,4,Turkey,Defender,,,,,
+4001,CAR,Cardiff City,Walsall,Neil,,Etheridge,Etheridge,1,Philippines,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4002,CAR,Cardiff City,Huddersfield Town,Lee,,Peltier,Peltier,2,England,Defender,1.0,0.0,0.0,0.0,0.0
+4003,CAR,Cardiff City,Aston Villa,Joe,,Bennett,Bennett,3,England,Defender,4.0,0.0,0.0,0.0,1.0
+4004,CAR,Cardiff City,Reading,Sean,,Morrison,Morrison,4,England,Defender,4.0,0.0,0.0,0.0,1.0
+4005,CAR,Cardiff City,Lorient,Bruno,Ecuele,Manga,E.Manga,5,Gabon,Defender,4.0,0.0,0.0,0.0,0.0
+4006,CAR,Cardiff City,Fulham,Ashley,,Richards,Richards,6,Wales,Defender,,,,,
+4007,CAR,Cardiff City,Bournemouth,Harry,,Arter,Arter,7,Ireland,Midfielder,3.0,0.0,0.0,0.0,0.0
+4008,CAR,Cardiff City,,Joe,,Ralls,Ralls,8,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+4009,CAR,Cardiff City,Rotherham United,Danny,,Ward,Ward,9,England,Forward,3.0,2.0,1.0,0.0,0.0
+4010,CAR,Cardiff City,Kortrijk,Kenneth,,Zohore,Zohore,10,Denmark,Forward,3.0,1.0,0.0,0.0,0.0
+4011,CAR,Cardiff City,Norwich City,Josh,,Murphy,Murphy,11,England,Midfielder,3.0,1.0,0.0,0.0,0.0
+4012,CAR,Cardiff City,Queens Park Rangers,Alex,,Smithies,Smithies,12,England,Goalkeeper,,,,,
+4013,CAR,Cardiff City,Hearts,Callum,,Paterson,Paterson,13,Scotland,Defender,3.0,2.0,0.0,0.0,0.0
+4014,CAR,Cardiff City,Bristol City,Bobby,,Reid,Reid,14,England,Midfielder,4.0,2.0,0.0,0.0,0.0
+4015,CAR,Cardiff City,Queens Park Rangers,Matthew,,Connolly,Connolly,16,England,Defender,,,,,
+4016,CAR,Cardiff City,Coventry City,Aron,,Gunnarsson,Gunnarsson,17,Iceland,Midfielder,,,,,
+4017,CAR,Cardiff City,Preston NE,Greg,,Cunningham,Cunningham,18,Ireland,Defender,,,,,
+4018,CAR,Cardiff City,Rochdale,Nathaniel,,Mendez-Laing,Mendez-Laing,19,England,Forward,3.0,1.0,0.0,0.0,0.0
+4019,CAR,Cardiff City,Bourg-en-Bresse,Loïc,,Damour,Damour,20,France,Midfielder,,,,,
+4020,CAR,Cardiff City,Betis,Víctor,,Camarasa,Camarasa,21,Spain,Midfielder,3.0,0.0,1.0,0.0,0.0
+4021,CAR,Cardiff City,Leeds United,Souleymane,,Bamba,Bamba,22,Ivory Coast,Defender,4.0,0.0,0.0,0.0,0.0
+4022,CAR,Cardiff City,Wycombe Wanderers,Kadeem,,Harris,Harris,23,England,Midfielder,,,,,
+4023,CAR,Cardiff City,Bolton Wanderers,Gary,,Madine,Madine,24,England,Forward,2.0,2.0,0.0,0.0,0.0
+4024,CAR,Cardiff City,Portsmouth,Brian,,Murphy,Murphy,28,Ireland,Goalkeeper,,,,,
+4025,CAR,Cardiff City,Queens Park Rangers,Junior,,Hoilett,Hoilett,33,Canada,Midfielder,3.0,0.0,0.0,0.0,0.0
+4026,CAR,Cardiff City,,Cameron,,Coxe,Coxe,36,Wales,Defender,,,,,
+4027,CAR,Cardiff City,Wealdstone,Ciaron,,Brown,Brown,37,England,Defender,,,,,
+4101,FUL,Fulham,,Marcus,,Bettinelli,Bettinelli,1,England,Goalkeeper,2.0,0.0,0.0,0.0,0.0
+4102,FUL,Fulham,,Ryan,,Sessegnon,Sessegnon,3,England,Midfielder,4.0,2.0,0.0,0.0,1.0
+4103,FUL,Fulham,Lokeren,Denis,,Odoi,Odoi,4,Belgium,Defender,2.0,0.0,0.0,0.0,0.0
+4104,FUL,Fulham,Arsenal,Calum,,Chambers,Chambers,5,England,Defender,4.0,2.0,0.0,0.0,0.0
+4105,FUL,Fulham,Wolverhampton Wanderers,Kevin,,McDonald,McDonald,6,Scotland,Midfielder,3.0,0.0,0.0,0.0,0.0
+4106,FUL,Fulham,KRC Genk,Neeskens,,Kebano,Kebano,7,Congo,Midfielder,,,,,
+4107,FUL,Fulham,Celtic,Stefan,,Johansen,Johansen,8,Norway,Midfielder,3.0,3.0,0.0,0.0,0.0
+4108,FUL,Fulham,Newcastle United,Aleksandar,,Mitrović,Mitrović,9,Serbia,Forward,4.0,0.0,4.0,0.0,0.0
+4109,FUL,Fulham,Blackburn Rovers,Tom,,Cairney,Cairney,10,Scotland,Midfielder,3.0,0.0,0.0,0.0,1.0
+4110,FUL,Fulham,Bastia,Floyd,,Ayité,Ayité,11,Togo,Forward,,,,,
+4111,FUL,Fulham,Bolton Wanderers,Tim,,Ream,Ream,13,United States,Defender,,,,,
+4112,FUL,Fulham,Borussia Dortmund,Andre,,Schürrle,Schürrle,14,Germany,Forward,4.0,1.0,2.0,0.0,0.0
+4113,FUL,Fulham,Sporting Braga,Rui,,Fonte,Fonte,17,Portugal,Forward,,,,,
+4114,FUL,Fulham,Atlético Madrid,Luciano,,Vietto,Vietto,19,Argentina,Forward,3.0,1.0,0.0,0.0,2.0
+4115,FUL,Fulham,Nice,Maxime,,Le Marchand,Le Marchand,20,France,Defender,4.0,0.0,0.0,0.0,0.0
+4116,FUL,Fulham,Manchester United,Timothy,,Fosu-Mensah,Fosu-Mensah,21,Netherlands,Defender,3.0,0.0,0.0,0.0,0.0
+4117,FUL,Fulham,Middlesbrough,Cyrus,,Christie,Christie,22,Ireland,Defender,2.0,1.0,0.0,0.0,0.0
+4118,FUL,Fulham,Bristol City,Joe,,Bryan,Bryan,23,England,Defender,3.0,0.0,0.0,0.0,0.0
+4119,FUL,Fulham,Nice,Jean,Michaël,Seri,Seri,24,Ivory Coast,Midfielder,4.0,0.0,1.0,0.0,1.0
+4120,FUL,Fulham,Sevilla,Sergio,,Rico,Rico,25,Spain,Goalkeeper,,,,,
+4121,FUL,Fulham,Swansea City,Alfie,,Mawson,Mawson,26,England,Defender,1.0,0.0,0.0,0.0,0.0
+4122,FUL,Fulham,Marseille,André-Frank,Zambo,Anguissa,Anguissa,29,Cameroon,Midfielder,3.0,1.0,0.0,0.0,0.0
+4123,FUL,Fulham,Beşiktaş,Fabricio,Agosto,Ramírez,Fabricio,31,Spain,Goalkeeper,2.0,0.0,0.0,0.0,0.0
+4124,FUL,Fulham,,Luca,,De La Torre,De La Torre,36,United States,Midfielder,,,,,
+4125,FUL,Fulham,,Steven,,Sessegnon,Sessegnon,43,England,Defender,,,,,
+4126,FUL,Fulham,Standard Liège,Ibrahima,,Cissé,Cissé,44,Belgium,Midfielder,,,,,
+4127,FUL,Fulham,Amiens,Aboubakar,,Kamara,Kamara,47,France,Forward,2.0,1.0,0.0,0.0,0.0
+4128,FUL,Fulham,,Luca,,Ashby-Hammond,Ashby-Hammond,50,England,Goalkeeper,,,,,
+4202,LIV,Liverpool,Southampton,Nathaniel,,Clyne,Clyne,2,England,Defender,,,,,
+4203,LIV,Liverpool,Monaco,Fábio,Henrique,Tavares,Fabinho,3,Brazil,Midfielder,,,,,
+4204,LIV,Liverpool,Southampton,Virgil,,van Dijk,Virgil,4,Netherlands,Defender,4.0,0.0,0.0,0.0,0.0
+4205,LIV,Liverpool,Newcastle United,Georginio,,Wijnaldum,Wijnaldum,5,Netherlands,Midfielder,4.0,0.0,0.0,0.0,0.0
+4206,LIV,Liverpool,Southampton,Dejan,,Lovren,Lovren,6,Croatia,Defender,,,,,
+4207,LIV,Liverpool,Manchester City,James,,Milner,Milner,7,England,Midfielder,4.0,0.0,1.0,0.0,2.0
+4208,LIV,Liverpool,RB Leipzig,Naby,,Keïta,Keïta,8,Guinea,Midfielder,4.0,1.0,0.0,0.0,0.0
+4209,LIV,Liverpool,1899 Hoffenheim,Roberto,,Firmino,Firmino,9,Brazil,Forward,4.0,0.0,1.0,0.0,2.0
+4210,LIV,Liverpool,Southampton,Sadio,,Mané,Mané,10,Senegal,Forward,4.0,0.0,4.0,0.0,0.0
+4211,LIV,Liverpool,Roma,Mohamed,,Salah,Salah,11,Egypt,Forward,4.0,0.0,2.0,0.0,1.0
+4212,LIV,Liverpool,Charlton Athletic,Joe,,Gomez,Gomez,12,England,Defender,4.0,0.0,0.0,0.0,0.0
+4213,LIV,Liverpool,Roma,Alisson,,Becker,A.Becker,13,Brazil,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4214,LIV,Liverpool,Sunderland,Jordan,,Henderson,Henderson,14,England,Midfielder,4.0,3.0,0.0,0.0,0.0
+4215,LIV,Liverpool,Chelsea,Daniel,,Sturridge,Sturridge,15,England,Forward,3.0,3.0,1.0,0.0,0.0
+4216,LIV,Liverpool,Crvena Zvezda,Marko,,Grujić,Grujić,16,Serbia,Midfielder,,,,,
+4218,LIV,Liverpool,Sevilla,Alberto,,Moreno,Moreno,18,Spain,Defender,,,,,
+4219,LIV,Liverpool,Southampton,Adam,,Lallana,Lallana,20,England,Midfielder,1.0,1.0,0.0,0.0,0.0
+4220,LIV,Liverpool,Arsenal,Alex,,Oxlade-Chamberlain,Oxlade-Chamberlain,21,England,Midfielder,,,,,
+4221,LIV,Liverpool,Sunderland,Simon,,Mignolet,Mignolet,22,Belgium,Goalkeeper,,,,,
+4222,LIV,Liverpool,Stoke City,Xherdan,,Shaqiri,Shaqiri,23,Switzerland,Midfielder,2.0,2.0,0.0,0.0,0.0
+4223,LIV,Liverpool,,Rhian,,Brewster,Brewster,24,England,Forward,,,,,
+4224,LIV,Liverpool,Hull City,Andrew,,Robertson,Robertson,26,Scotland,Defender,4.0,0.0,0.0,0.0,2.0
+4225,LIV,Liverpool,Lille,Divock,,Origi,Origi,27,Belgium,Forward,,,,,
+4226,LIV,Liverpool,Chelsea,Dominic,,Solanke,Solanke,29,England,Forward,,,,,
+4227,LIV,Liverpool,Schalke,Joel,,Matip,Matip,32,Cameroon,Defender,2.0,2.0,0.0,0.0,0.0
+4228,LIV,Liverpool,Bolton Wanderers,Nathaniel,,Phillips,Phillips,47,England,Defender,,,,,
+4229,LIV,Liverpool,,Curtis,,Jones,Jones,48,England,Midfielder,,,,,
+4230,LIV,Liverpool,Benfica,Lazar,,Marković,Marković,50,Serbia,Midfielder,,,,,
+4231,LIV,Liverpool,MK Dons,Sheyi,,Ojo,Ojo,54,England,Forward,,,,,
+4233,LIV,Liverpool,Ringmahon Rangers,Caoimhin,,Kelleher,Kelleher,62,Ireland,Goalkeeper,,,,,
+4234,LIV,Liverpool,Manchester City,Rafael,,Camacho,Camacho,64,Portugal,Midfielder,,,,,
+4235,LIV,Liverpool,,Trent,,Alexander-Arnold,Alexander-Arnold,66,England,Defender,4.0,0.0,0.0,0.0,0.0
+4236,LIV,Liverpool,Valencia,Pedro,,Chirivella,Chirivella,68,Spain,Midfielder,,,,,
+4237,LIV,Liverpool,Ruch Chorzów,Kamil,,Grabara,Grabara,73,Poland,Goalkeeper,,,,,
+4301,MCI,Manchester City,Barcelona,Claudio,,Bravo,Bravo,1,Chile,Goalkeeper,,,,,
+4302,MCI,Manchester City,Tottenham Hotspur,Kyle,,Walker,Walker,2,England,Defender,3.0,0.0,1.0,0.0,0.0
+4303,MCI,Manchester City,Real Madrid,Danilo,Luiz,da Silva,Danilo,3,Brazil,Defender,,,,,
+4304,MCI,Manchester City,Hamburg,Vincent,,Kompany,Kompany,4,Belgium,Defender,3.0,1.0,0.0,0.0,0.0
+4305,MCI,Manchester City,Everton,John,,Stones,Stones,5,England,Defender,3.0,0.0,0.0,0.0,0.0
+4306,MCI,Manchester City,Liverpool,Raheem,,Sterling,Sterling,7,England,Midfielder,3.0,0.0,2.0,0.0,0.0
+4307,MCI,Manchester City,Borussia Dortmund,İlkay,,Gündoğan,Gündoğan,8,Germany,Midfielder,4.0,1.0,0.0,0.0,1.0
+4308,MCI,Manchester City,Atlético Madrid,Sergio,,Agüero,Agüero,10,Argentina,Forward,4.0,0.0,3.0,0.0,1.0
+4309,MCI,Manchester City,Athletic Bilbao,Aymeric,,Laporte,Laporte,14,France,Defender,4.0,0.0,1.0,0.0,0.0
+4310,MCI,Manchester City,FC Porto,Eliaquim,,Mangala,Mangala,15,France,Defender,,,,,
+4311,MCI,Manchester City,Wolfsburg,Kevin,,De Bruyne,De Bruyne,17,Belgium,Midfielder,1.0,1.0,0.0,0.0,0.0
+4312,MCI,Manchester City,Aston Villa,Fabian,,Delph,Delph,18,England,Midfielder,,,,,
+4313,MCI,Manchester City,Schalke,Leroy,,Sané,Sané,19,Germany,Midfielder,3.0,3.0,0.0,0.0,0.0
+4314,MCI,Manchester City,Monaco,Bernardo,,Silva,Bernardo,20,Portugal,Midfielder,4.0,1.0,1.0,0.0,0.0
+4315,MCI,Manchester City,Valencia,David,,Silva,Silva,21,Spain,Midfielder,3.0,0.0,1.0,0.0,0.0
+4316,MCI,Manchester City,Monaco,Benjamin,,Mendy,Mendy,22,France,Defender,4.0,0.0,0.0,0.0,4.0
+4317,MCI,Manchester City,Shakhtar Donetsk,Fernando,Luiz,Roza,Fernandinho,25,Brazil,Midfielder,4.0,0.0,0.0,0.0,0.0
+4318,MCI,Manchester City,Leicester City,Riyad,,Mahrez,Mahrez,26,Algeria,Midfielder,4.0,2.0,0.0,0.0,0.0
+4320,MCI,Manchester City,Valencia,Nicolás,,Otamendi,Otamendi,30,Argentina,Defender,,,,,
+4321,MCI,Manchester City,Benfica,Ederson,Santana,de Moraes,Ederson,31,Brazil,Goalkeeper,4.0,0.0,0.0,0.0,1.0
+4322,MCI,Manchester City,,Daniel,,Grimshaw,Grimshaw,32,England,Goalkeeper,,,,,
+4323,MCI,Manchester City,Palmeiras,Gabriel,,Jesus,Jesus,33,Brazil,Forward,4.0,2.0,1.0,0.0,0.0
+4324,MCI,Manchester City,PEC Zwolle,Philippe,,Sandler,Sandler,34,Netherlands,Defender,,,,,
+4325,MCI,Manchester City,FC Ufa,Oleksandr,,Zinchenko,Zinchenko,35,Ukraine,Midfielder,,,,,
+4326,MCI,Manchester City,,Phil,,Foden,Foden,47,England,Midfielder,1.0,1.0,0.0,0.0,0.0
+4327,MCI,Manchester City,Grasshoppers,Arijanet,,Murić,Murić,49,Montenegro,Goalkeeper,,,,,
+4328,MCI,Manchester City,Málaga,Brahim,,Díaz,Díaz,55,Spain,Midfielder,,,,,
+4401,MUN,Manchester United,Atlético Madrid,David,,De Gea,De Gea,1,Spain,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4402,MUN,Manchester United,Benfica,Victor,,Lindelöf,Lindelöf,2,Sweden,Defender,4.0,1.0,0.0,0.0,0.0
+4403,MUN,Manchester United,Villarreal,Eric,,Bailly,Bailly,3,Ivory Coast,Defender,3.0,1.0,0.0,0.0,0.0
+4404,MUN,Manchester United,Blackburn Rovers,Phil,,Jones,Jones,4,England,Defender,1.0,0.0,0.0,0.0,0.0
+4405,MUN,Manchester United,Juventus,Paul,,Pogba,Pogba,6,France,Midfielder,4.0,0.0,2.0,0.0,0.0
+4406,MUN,Manchester United,Arsenal,Alexis,,Sánchez,Alexis,7,Chile,Forward,3.0,1.0,0.0,0.0,1.0
+4407,MUN,Manchester United,Chelsea,Juan,,Mata,Mata,8,Spain,Midfielder,2.0,0.0,0.0,0.0,1.0
+4408,MUN,Manchester United,Everton,Romelu,,Lukaku,Lukaku,9,Belgium,Forward,4.0,1.0,3.0,0.0,0.0
+4409,MUN,Manchester United,,Marcus,,Rashford,Rashford,10,England,Forward,3.0,2.0,0.0,0.0,0.0
+4410,MUN,Manchester United,Monaco,Anthony,,Martial,Martial,11,France,Forward,1.0,0.0,0.0,0.0,0.0
+4411,MUN,Manchester United,Fulham,Chris,,Smalling,Smalling,12,England,Defender,2.0,0.0,0.0,0.0,0.0
+4412,MUN,Manchester United,Stoke City,Lee,,Grant,Grant,13,England,Goalkeeper,,,,,
+4413,MUN,Manchester United,,Jesse,,Lingard,Lingard,14,England,Midfielder,3.0,1.0,0.0,0.0,0.0
+4414,MUN,Manchester United,PSV Eindhoven,Andreas,,Pereira,Pereira,15,Belgium,Midfielder,2.0,0.0,0.0,0.0,0.0
+4415,MUN,Manchester United,Sporting CP,Marcos,,Rojo,Rojo,16,Argentina,Defender,,,,,
+4416,MUN,Manchester United,Shakhtar Donetsk,Frederico,,Rodrigues,Fred,17,Brazil,Midfielder,3.0,0.0,0.0,0.0,0.0
+4417,MUN,Manchester United,Aston Villa,Ashley,,Young,Young,18,England,Midfielder,1.0,0.0,0.0,0.0,0.0
+4418,MUN,Manchester United,FC Porto,Diogo,,Dalot,Dalot,20,Portugal,Defender,,,,,
+4419,MUN,Manchester United,Athletic Bilbao,Ander,,Herrera,Herrera,21,Spain,Midfielder,2.0,1.0,0.0,0.0,0.0
+4420,MUN,Manchester United,Sampdoria,Sergio,,Romero,Romero,22,Argentina,Goalkeeper,,,,,
+4421,MUN,Manchester United,Southampton,Luke,,Shaw,Shaw,23,England,Defender,4.0,0.0,1.0,0.0,0.0
+4422,MUN,Manchester United,Wigan Athletic,Luis,Antonio,Valencia,Valencia,25,Ecuador,Midfielder,2.0,0.0,0.0,0.0,0.0
+4423,MUN,Manchester United,Everton,Marouane,,Fellaini,Fellaini,27,Belgium,Midfielder,4.0,3.0,0.0,0.0,0.0
+4424,MUN,Manchester United,Chelsea,Nemanja,,Matić,Matić,31,Serbia,Midfielder,2.0,0.0,0.0,0.0,0.0
+4425,MUN,Manchester United,Torino,Matteo,,Darmian,Darmian,36,Italy,Defender,1.0,0.0,0.0,0.0,0.0
+4426,MUN,Manchester United,,Scott,,McTominay,McTominay,39,England,Midfielder,1.0,1.0,0.0,0.0,0.0
+4427,MUN,Manchester United,Feyenoord,Tahith,,Chong,Chong,44,Netherlands,Forward,,,,,
+4428,MUN,Manchester United,Brentford,Joshua,,Bohui,Bohui,46,England,Forward,,,,,
+4429,MUN,Manchester United,,Angel,,Gomes,Gomes,47,England,Midfielder,,,,,
+4430,MUN,Manchester United,Hutchison Vale,Ethan,,Hamilton,Hamilton,48,Scotland,Midfielder,,,,,
+4431,MUN,Manchester United,Slovácko,Matěj,,Kovář,Kovář,51,Czech Republic,Goalkeeper,,,,,
+4501,NEW,Newcastle United,Charlton Athletic,Robert,,Elliot,Elliot,1,Ireland,Goalkeeper,,,,,
+4502,NEW,Newcastle United,Aston Villa,Ciaran,,Clark,Clark,2,Ireland,Defender,4.0,0.0,0.0,0.0,0.0
+4503,NEW,Newcastle United,,Paul,,Dummett,Dummett,3,Wales,Defender,4.0,0.0,0.0,0.0,0.0
+4504,NEW,Newcastle United,Celtic,Ki,,Sung-Yueng,Sung-Yueng,4,South Korea,Midfielder,2.0,0.0,0.0,0.0,0.0
+4505,NEW,Newcastle United,Deportivo La Coruña,Fabian,,Schär,Schär,5,Switzerland,Defender,1.0,0.0,0.0,0.0,0.0
+4506,NEW,Newcastle United,Nottingham Forest,Jamaal,,Lascelles,Lascelles,6,England,Defender,3.0,0.0,0.0,0.0,0.0
+4507,NEW,Newcastle United,Norwich City,Jacob,,Murphy,Murphy,7,England,Midfielder,3.0,2.0,0.0,0.0,0.0
+4508,NEW,Newcastle United,Swansea City,Jonjo,,Shelvey,Shelvey,8,England,Midfielder,2.0,0.0,0.0,0.0,0.0
+4509,NEW,Newcastle United,West Brom Albion,José,Salomón,Rondón,Rondón,9,Venezuela,Forward,3.0,1.0,0.0,0.0,1.0
+4510,NEW,Newcastle United,Hull City,Mohamed,,Diamé,Diamé,10,Senegal,Midfielder,4.0,0.0,0.0,0.0,0.0
+4511,NEW,Newcastle United,Bournemouth,Matt,,Ritchie,Ritchie,11,Scotland,Midfielder,3.0,0.0,0.0,0.0,1.0
+4512,NEW,Newcastle United,Sparta Prague,Martin,,Dúbravka,Dúbravka,12,Slovakia,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4513,NEW,Newcastle United,Mainz,Yoshinori,,Mutō,Mutō,13,Japan,Forward,3.0,3.0,0.0,0.0,0.0
+4514,NEW,Newcastle United,Arsenal,Isaac,,Hayden,Hayden,14,England,Defender,1.0,1.0,0.0,0.0,0.0
+4515,NEW,Newcastle United,Chelsea,Robert,,Kenedy,Kenedy,15,Brazil,Midfielder,3.0,0.0,0.0,0.0,0.0
+4516,NEW,Newcastle United,Tenerife,Ayoze,,Pérez,Pérez,17,Spain,Forward,4.0,1.0,0.0,0.0,0.0
+4517,NEW,Newcastle United,Swansea City,Federico,,Fernández,Fernández,18,Argentina,Defender,2.0,0.0,0.0,0.0,0.0
+4518,NEW,Newcastle United,Atlético Madrid,Javi,,Manquillo,Manquillo,19,Spain,Defender,1.0,0.0,0.0,0.0,0.0
+4519,NEW,Newcastle United,Eibar,Florian,,Lejeune,Lejeune,20,France,Defender,,,,,
+4520,NEW,Newcastle United,Stoke City,José,,Luis,Joselu,21,Spain,Forward,4.0,2.0,2.0,0.0,0.0
+4521,NEW,Newcastle United,Tottenham Hotspur,DeAndre,,Yedlin,Yedlin,22,United States,Defender,3.0,0.0,1.0,1.0,1.0
+4522,NEW,Newcastle United,,Jamie,,Sterry,Sterry,25,England,Defender,,,,,
+4523,NEW,Newcastle United,Nottingham Forest,Karl,,Darlow,Darlow,26,England,Goalkeeper,,,,,
+4524,NEW,Newcastle United,Chelsea,Christian,,Atsu,Atsu,30,Ghana,Midfielder,2.0,2.0,0.0,0.0,0.0
+4525,NEW,Newcastle United,,Sean,,Longstaff,Longstaff,36,England,Midfielder,,,,,
+4526,NEW,Newcastle United,,Callum,,Roberts,Roberts,37,England,Forward,,,,,
+4527,NEW,Newcastle United,Crystal Palace,Freddie,,Woodman,Woodman,41,England,Goalkeeper,,,,,
+4601,TOT,Tottenham Hotspur,Lyon,Hugo,,Lloris,Lloris,1,France,Goalkeeper,3.0,0.0,0.0,0.0,0.0
+4602,TOT,Tottenham Hotspur,Burnley,Kieran,,Trippier,Trippier,2,England,Defender,3.0,0.0,1.0,0.0,1.0
+4603,TOT,Tottenham Hotspur,Leeds United,Danny,,Rose,Rose,3,England,Defender,2.0,1.0,0.0,0.0,0.0
+4604,TOT,Tottenham Hotspur,Atlético Madrid,Toby,,Alderweireld,Alderweireld,4,Belgium,Defender,3.0,0.0,0.0,0.0,0.0
+4605,TOT,Tottenham Hotspur,Ajax,Jan,,Vertonghen,Vertonghen,5,Belgium,Defender,4.0,0.0,1.0,0.0,0.0
+4606,TOT,Tottenham Hotspur,Ajax,Davinson,,Sánchez,Sánchez,6,Colombia,Defender,3.0,0.0,0.0,0.0,1.0
+4607,TOT,Tottenham Hotspur,Bayer Leverkusen,Son,,Heung-Min,Heung-Min,7,South Korea,Forward,1.0,1.0,0.0,0.0,0.0
+4608,TOT,Tottenham Hotspur,,Harry,,Winks,Winks,8,England,Midfielder,3.0,3.0,0.0,0.0,0.0
+4609,TOT,Tottenham Hotspur,,Harry,,Kane,Kane,10,England,Forward,4.0,0.0,2.0,0.0,1.0
+4610,TOT,Tottenham Hotspur,Roma,Erik,,Lamela,Lamela,11,Argentina,Midfielder,1.0,1.0,0.0,0.0,1.0
+4611,TOT,Tottenham Hotspur,Southampton,Victor,,Wanyama,Wanyama,12,Kenya,Midfielder,,,,,
+4612,TOT,Tottenham Hotspur,Swansea City,Michel,,Vorm,Vorm,13,Netherlands,Goalkeeper,1.0,0.0,0.0,0.0,0.0
+4613,TOT,Tottenham Hotspur,Marseille,Georges-Kevin,,Nkoudou,Nkoudou,14,France,Midfielder,,,,,
+4614,TOT,Tottenham Hotspur,Sporting CP,Eric,,Dier,Dier,15,England,Midfielder,3.0,0.0,0.0,0.0,0.0
+4615,TOT,Tottenham Hotspur,,Kyle,,Walker-Peters,Walker-Peters,16,England,Defender,,,,,
+4616,TOT,Tottenham Hotspur,Newcastle United,Moussa,,Sissoko,Sissoko,17,France,Midfielder,1.0,0.0,0.0,0.0,0.0
+4617,TOT,Tottenham Hotspur,Swansea City,Fernando,,Llorente,Llorente,18,Spain,Forward,1.0,1.0,0.0,0.0,0.0
+4618,TOT,Tottenham Hotspur,Fulham,Mousa,,Dembélé,Dembélé,19,Belgium,Midfielder,4.0,2.0,0.0,0.0,0.0
+4619,TOT,Tottenham Hotspur,MK Dons,Dele,,Alli,Alli,20,England,Midfielder,4.0,0.0,1.0,0.0,0.0
+4620,TOT,Tottenham Hotspur,Estudiantes,Juan,,Foyth,Foyth,21,Argentina,Defender,,,,,
+4621,TOT,Tottenham Hotspur,Southampton,Paulo,,Gazzaniga,Gazzaniga,22,Argentina,Goalkeeper,,,,,
+4622,TOT,Tottenham Hotspur,Ajax,Christian,,Eriksen,Eriksen,23,Denmark,Midfielder,4.0,0.0,0.0,0.0,1.0
+4623,TOT,Tottenham Hotspur,Paris St-Germain,Serge,,Aurier,Aurier,24,Ivory Coast,Defender,2.0,1.0,0.0,0.0,1.0
+4625,TOT,Tottenham Hotspur,Paris St-Germain,Lucas,,Moura,Moura,27,Brazil,Midfielder,4.0,0.0,3.0,0.0,0.0
+4626,TOT,Tottenham Hotspur,Swansea City,Ben,,Davies,Davies,33,Wales,Defender,4.0,1.0,0.0,0.0,0.0
+4627,TOT,Tottenham Hotspur,,HCameronugo,,Carter-Vickers,Carter-Vickers,38,United States,Defender,,,,,
+4628,TOT,Tottenham Hotspur,,Luke,,Amos,Amos,40,England,Midfielder,1.0,1.0,0.0,0.0,0.0
+4629,TOT,Tottenham Hotspur,,Oliver,,Skipp,Skipp,52,England,Midfielder,,,,,
+4701,WAT,Watford,Tottenham Hotspur,Heurelho,,Gomes,Gomes,1,Brazil,Goalkeeper,,,,,
+4702,WAT,Watford,Newcastle United,Daryl,,Janmaat,Janmaat,2,Netherlands,Defender,4.0,0.0,0.0,0.0,1.0
+4703,WAT,Watford,Napoli,Miguel,Angel,Britos,Britos,3,Uruguay,Defender,,,,,
+4704,WAT,Watford,Sunderland,Younès,,Kaboul,Kaboul,4,France,Defender,,,,,
+4705,WAT,Watford,Werder Bremen,Sebastian,,Prödl,Prödl,5,Austria,Defender,,,,,
+4706,WAT,Watford,Crystal Palace,Adrian,,Mariappa,Mariappa,6,Jamaica,Defender,1.0,1.0,0.0,0.0,0.0
+4707,WAT,Watford,Barcelona,Gerard,,Deulofeu,Deulofeu,7,Spain,Forward,,,,,
+4708,WAT,Watford,Everton,Tom,,Cleverley,Cleverley,8,England,Midfielder,,,,,
+4709,WAT,Watford,Walsall,Troy,,Deeney,Deeney,9,England,Forward,4.0,0.0,2.0,0.0,1.0
+4710,WAT,Watford,Granada,Isaac,,Success,Success,10,Nigeria,Forward,4.0,4.0,0.0,0.0,0.0
+4711,WAT,Watford,Bologna,Adam,,Masina,Masina,11,Morocco,Defender,,,,,
+4712,WAT,Watford,Östersunds FK,Ken,,Sema,Sema,12,Sweden,Midfielder,3.0,3.0,0.0,0.0,0.0
+4713,WAT,Watford,Chelsea,Nathaniel,,Chalobah,Chalobah,14,England,Defender,1.0,1.0,0.0,0.0,0.0
+4714,WAT,Watford,Blackpool,Craig,,Cathcart,Cathcart,15,Northern Ireland,Defender,4.0,0.0,1.0,0.0,0.0
+4715,WAT,Watford,Rennes,Abdoulaye,,Doucouré,Doucouré,16,France,Midfielder,4.0,0.0,0.0,1.0,1.0
+4716,WAT,Watford,Udinese,Adalberto,,Peñaranda,Peñaranda,17,Venezuela,Forward,,,,,
+4717,WAT,Watford,Burnley,Andre,,Gray,Gray,18,England,Forward,4.0,0.0,1.0,0.0,0.0
+4718,WAT,Watford,Derby County,Will,,Hughes,Hughes,19,England,Midfielder,4.0,0.0,1.0,0.0,0.0
+4719,WAT,Watford,West Ham United,Domingos,,Quina,Quina,20,Portugal,Midfielder,,,,,
+4720,WAT,Watford,Alavés,Kiko,,Femenía,Femenía,21,Spain,Midfielder,2.0,2.0,0.0,0.0,0.0
+4721,WAT,Watford,Sporting CP,Marvin,,Zeegelaar,Zeegelaar,22,Netherlands,Defender,,,,,
+4722,WAT,Watford,Espanyol,Marc,,Navarro,Navarro,23,Spain,Defender,,,,,
+4723,WAT,Watford,Stevenage,Ben,,Wilmot,Wilmot,24,England,Defender,,,,,
+4724,WAT,Watford,Roma,José,,Holebas,Holebas,25,Greece,Defender,4.0,0.0,1.0,0.0,4.0
+4725,WAT,Watford,West Brom Albion,Ben,,Foster,Foster,26,England,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4726,WAT,Watford,KRC Genk,Christian,,Kabasele,Kabasele,27,Belgium,Defender,4.0,0.0,0.0,0.0,0.0
+4727,WAT,Watford,Tottenham Hotspur,Étienne,,Capoue,Capoue,29,France,Midfielder,4.0,0.0,0.0,0.0,1.0
+4728,WAT,Watford,IFK Göteborg,Pontus,,Dahlberg,Dahlberg,30,Sweden,Goalkeeper,,,,,
+4729,WAT,Watford,Anderlecht,Stefano,,Okaka,Okaka,33,Italy,Forward,,,,,
+4730,WAT,Watford,Juventus,Roberto,,Pereyra,Pereyra,37,Argentina,Midfielder,4.0,0.0,3.0,0.0,0.0
+4801,WHU,West Ham United,Swansea City,Łukasz,,Fabiański,Fabiański,1,Poland,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4802,WHU,West Ham United,FC Midtjylland,Winston,,Reid,Reid,2,New Zealand,Defender,,,,,
+4803,WHU,West Ham United,Ipswich Town,Aaron,,Cresswell,Cresswell,3,England,Defender,1.0,0.0,0.0,0.0,0.0
+4804,WHU,West Ham United,Corinthians,Fabián,,Balbuena,Balbuena,4,Paraguay,Defender,4.0,0.0,0.0,0.0,0.0
+4805,WHU,West Ham United,Manchester City,Pablo,,Zabaleta,Zabaleta,5,Argentina,Defender,1.0,0.0,0.0,0.0,0.0
+4806,WHU,West Ham United,Stoke City,Marko,,Arnautović,Arnautović,7,Austria,Forward,4.0,0.0,2.0,0.0,0.0
+4807,WHU,West Ham United,Lazio,Felipe,,Anderson,Anderson,8,Brazil,Midfielder,4.0,0.0,0.0,0.0,1.0
+4808,WHU,West Ham United,Liverpool,Andy,,Carroll,Carroll,9,England,Forward,,,,,
+4809,WHU,West Ham United,Al-Jazira,Manuel,,Lanzini,Lanzini,10,Argentina,Midfielder,,,,,
+4810,WHU,West Ham United,Hull City,Robert,,Snodgrass,Snodgrass,11,Scotland,Midfielder,4.0,1.0,0.0,0.0,0.0
+4811,WHU,West Ham United,Betis,Adrián,,del Castillo,Adrián,13,Spain,Goalkeeper,,,,,
+4812,WHU,West Ham United,Sampdoria,Pedro,,Obiang,Obiang,14,Spain,Midfielder,1.0,1.0,0.0,0.0,0.0
+4813,WHU,West Ham United,Fiorentina,Carlos,,Sánchez,Sánchez,15,Colombia,Midfielder,3.0,1.0,0.0,0.0,0.0
+4814,WHU,West Ham United,,Mark,,Noble,Noble,16,England,Midfielder,2.0,0.0,0.0,0.0,0.0
+4815,WHU,West Ham United,Bayer Leverkusen,Javier,,Hernández,Chicharito,17,Mexico,Forward,4.0,3.0,0.0,0.0,0.0
+4816,WHU,West Ham United,Arsenal,Jack,,Wilshere,Wilshere,19,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+4817,WHU,West Ham United,Borussia Dortmund,Andriy,,Yarmolenko,Yarmolenko,20,Ukraine,Forward,4.0,4.0,0.0,0.0,0.0
+4818,WHU,West Ham United,Juventus,Angelo,,Ogbonna,Ogbonna,21,Italy,Defender,2.0,0.0,0.0,0.0,0.0
+4819,WHU,West Ham United,Toulouse,Issa,,Diop,Diop,23,France,Defender,2.0,0.0,0.0,1.0,0.0
+4820,WHU,West Ham United,Fulham,Ryan,,Fredericks,Fredericks,24,England,Defender,3.0,0.0,0.0,0.0,0.0
+4821,WHU,West Ham United,Olympiakos,Arthur,,Masuaku,Masuaku,26,France,Defender,3.0,0.0,0.0,0.0,0.0
+4822,WHU,West Ham United,Arsenal,Lucas,,Pérez,Lucas,27,Spain,Forward,2.0,2.0,0.0,0.0,0.0
+4823,WHU,West Ham United,Nottingham Forest,Michail,,Antonio,Antonio,30,England,Midfielder,3.0,0.0,0.0,0.0,0.0
+4825,WHU,West Ham United,,Nathan,,Trott,Trott,34,Bermuda,Goalkeeper,,,,,
+4826,WHU,West Ham United,,Reece,,Oxford,Oxford,35,England,Defender,,,,,
+4827,WHU,West Ham United,Everton,Nathan,,Holland,Holland,37,England,Midfielder,,,,,
+4828,WHU,West Ham United,,Josh,,Pask,Pask,39,England,Defender,,,,,
+4829,WHU,West Ham United,,Declan,,Rice,Rice,41,Ireland,Midfielder,1.0,0.0,0.0,0.0,0.0
+4901,WOL,Wolverhampton Wanderers,Bohemians,Matt,,Doherty,Doherty,2,Ireland,Defender,4.0,0.0,0.0,1.0,0.0
+4902,WOL,Wolverhampton Wanderers,Norwich City,Ryan ,,Bennett,Bennett,5,England,Defender,4.0,0.0,0.0,0.0,0.0
+4904,WOL,Wolverhampton Wanderers,Monaco,Ivan,,Cavaleiro,Cavaleiro,7,Portugal,Midfielder,,,,,
+4905,WOL,Wolverhampton Wanderers,FC Porto,Rubén,,Neves,Neves,8,Portugal,Midfielder,4.0,0.0,1.0,0.0,1.0
+4906,WOL,Wolverhampton Wanderers,Benfica,Raúl,,Jiménez,Jiménez,9,Mexico,Forward,4.0,0.0,1.0,0.0,0.0
+4907,WOL,Wolverhampton Wanderers,Benfica,Hélder,,Costa,Costa,10,Portugal,Forward,4.0,0.0,0.0,0.0,0.0
+4908,WOL,Wolverhampton Wanderers,Sporting CP,Rui,,Patrício,Patrício,11,Portugal,Goalkeeper,4.0,0.0,0.0,0.0,0.0
+4909,WOL,Wolverhampton Wanderers,,Bright,,Enobakhare,Enobakhare,14,Nigeria,Forward,,,,,
+4910,WOL,Wolverhampton Wanderers,FC Porto,Willy,,Boly,Boly,15,France,Defender,4.0,0.0,1.0,0.0,0.0
+4911,WOL,Wolverhampton Wanderers,Huddersfield Town,Conor,,Coady,Coady,16,England,Midfielder,4.0,0.0,0.0,0.0,0.0
+4912,WOL,Wolverhampton Wanderers,,Morgan,,Gibbs-White,Gibbs-White,17,England,Midfielder,2.0,2.0,0.0,0.0,0.0
+4913,WOL,Wolverhampton Wanderers,Atlético Madrid,Diogo,,Jota,Jota,18,Portugal,Midfielder,4.0,0.0,0.0,0.0,0.0
+4914,WOL,Wolverhampton Wanderers,Atlético Madrid,Jonathan,Castro,Otto,Jonny,19,Spain,Defender,4.0,0.0,0.0,0.0,0.0
+4915,WOL,Wolverhampton Wanderers,Norwich City,John,,Ruddy,Ruddy,21,England,Goalkeeper,,,,,
+4916,WOL,Wolverhampton Wanderers,Angers,Romain,,Saïss,Saïss,27,Morocco,Midfielder,,,,,
+4917,WOL,Wolverhampton Wanderers,Monaco,João,,Moutinho,Moutinho,28,Portugal,Midfielder,4.0,0.0,0.0,0.0,1.0
+4918,WOL,Wolverhampton Wanderers,Monaco,Rúben,,Vinagre,Vinagre,29,Portugal,Defender,3.0,3.0,0.0,0.0,0.0
+4919,WOL,Wolverhampton Wanderers,Wycombe Wanderers,Kortney,,Hause,Hause,30,England,Defender,,,,,
+4920,WOL,Wolverhampton Wanderers,Cambridge United,Will,,Norris,Norris,31,England,Goalkeeper,,,,,
+4921,WOL,Wolverhampton Wanderers,Anderlecht,Leander,,Dendoncker,Dendoncker,32,Belgium,Midfielder,,,,,
+4922,WOL,Wolverhampton Wanderers,Al-Hilal,Léo,,Bonatini,Bonatini,33,Brazil,Forward,3.0,3.0,0.0,0.0,1.0
+4923,WOL,Wolverhampton Wanderers,Middlesbrough,Adama,,Traoré,Traoré,37,Spain,Forward,3.0,3.0,1.0,0.0,0.0
+4924,WOL,Wolverhampton Wanderers,,Ryan,John,Giles,Giles,23,England,Midfielder,,,,,
+4925,WOL,Wolverhampton Wanderers,Norwich City,Benny,,Ashley-Seal,Ashley-Seal,24,England,Forward,,,,,
+4926,WOL,Wolverhampton Wanderers,Preston NE,Elliot,,Watt,Watt,25,Scotland,Midfielder,,,,,
+4927,WOL,Wolverhampton Wanderers,Valencia,Pedro,,Gonçalves,Gonçalves,26,Portugal,Midfielder,,,,,
