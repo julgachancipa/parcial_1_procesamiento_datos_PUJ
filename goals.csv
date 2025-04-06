@@ -1,112 +1,84 @@
-id,home_team,away_team,goal_scorer_id,goal_scored_for,goal_scorer_name,goal_scorer_jersey_number,scoring_minute,assist_given,assist_details,is_penalty
-1,MUN,LEI,4405,MUN,Pogba,6,3,False,,True
-2,MUN,LEI,4421,MUN,Shaw,23,83,True,"{'assist_provider_id': 4407, 'assist_provider_name': 'Mata', 'assist_provider_jersey_number': 8}",False
-3,MUN,LEI,3908,LEI,Vardy,9,90 +2,False,,False
-4,NEW,TOT,4605,TOT,Vertonghen,5,8,True,"{'assist_provider_id': 4606, 'assist_provider_name': 'Sánchez', 'assist_provider_jersey_number': 6}",False
-5,NEW,TOT,4520,NEW,Joselu,21,11,True,"{'assist_provider_id': 4511, 'assist_provider_name': 'Ritchie', 'assist_provider_jersey_number': 11}",False
-6,NEW,TOT,4619,TOT,Alli,20,18,True,"{'assist_provider_id': 4623, 'assist_provider_name': 'Aurier', 'assist_provider_jersey_number': 24}",False
-7,BOU,CAR,3321,BOU,Fraser,24,24,True,"{'assist_provider_id': 3313, 'assist_provider_name': 'Wilson', 'assist_provider_jersey_number': 13}",False
-8,BOU,CAR,3313,BOU,Wilson,13,90 +1,True,"{'assist_provider_id': 3302, 'assist_provider_name': 'Francis', 'assist_provider_jersey_number': 2}",False
-9,FUL,CRY,3714,CRY,Schlupp,15,41,True,"{'assist_provider_id': 3703, 'assist_provider_name': 'van Aanholt', 'assist_provider_jersey_number': 3}",False
-10,FUL,CRY,3711,CRY,Zaha,11,79,True,"{'assist_provider_id': 3721, 'assist_provider_name': 'Wan-Bissaka', 'assist_provider_jersey_number': 29}",False
-11,HUD,CHE,3807,CHE,Kanté,7,34,True,"{'assist_provider_id': 3819, 'assist_provider_name': 'Willian', 'assist_provider_jersey_number': 22}",False
-12,HUD,CHE,3805,CHE,Jorginho,5,45,False,,True
-13,HUD,CHE,3810,CHE,Pedro,11,80,True,"{'assist_provider_id': 3809, 'assist_provider_name': 'Hazard', 'assist_provider_jersey_number': 10}",False
-14,WAT,BHA,4730,WAT,Pereyra,37,35,True,"{'assist_provider_id': 4724, 'assist_provider_name': 'Holebas', 'assist_provider_jersey_number': 25}",False
-15,WAT,BHA,4730,WAT,Pereyra,37,54,True,"{'assist_provider_id': 4724, 'assist_provider_name': 'Holebas', 'assist_provider_jersey_number': 25}",False
-16,WOL,EVE,3527,EVE,Richarlison,30,17,True,"{'assist_provider_id': 3504, 'assist_provider_name': 'Keane', 'assist_provider_jersey_number': 4}",False
-17,WOL,EVE,4905,WOL,Neves,8,44,False,,False
-18,WOL,EVE,3527,EVE,Richarlison,30,67,True,"{'assist_provider_id': 3513, 'assist_provider_name': 'Tosun', 'assist_provider_jersey_number': 14}",False
-19,WOL,EVE,4906,WOL,Jiménez,9,80,True,"{'assist_provider_id': 4905, 'assist_provider_name': 'Neves', 'assist_provider_jersey_number': 8}",False
-20,LIV,WHU,4211,LIV,Salah,11,19,True,"{'assist_provider_id': 4224, 'assist_provider_name': 'Robertson', 'assist_provider_jersey_number': 26}",False
-21,LIV,WHU,4210,LIV,Mané,10,47,True,"{'assist_provider_id': 4207, 'assist_provider_name': 'Milner', 'assist_provider_jersey_number': 7}",False
-22,LIV,WHU,4210,LIV,Mané,10,53,True,"{'assist_provider_id': 4209, 'assist_provider_name': 'Firmino', 'assist_provider_jersey_number': 9}",False
-23,LIV,WHU,4215,LIV,Sturridge,15,88,False,,False
-24,ARS,MCI,4306,MCI,Sterling,7,14,True,"{'assist_provider_id': 4316, 'assist_provider_name': 'Mendy', 'assist_provider_jersey_number': 22}",False
-25,ARS,MCI,4314,MCI,B.Silva,20,64,True,"{'assist_provider_id': 4316, 'assist_provider_name': 'Mendy', 'assist_provider_jersey_number': 22}",False
-26,EVE,SOU,3510,EVE,Walcott,11,15,True,"{'assist_provider_id': 3517, 'assist_provider_name': 'Schneiderlin', 'assist_provider_jersey_number': 18}",False
-27,EVE,SOU,3527,EVE,Richarlison,30,31,True,"{'assist_provider_id': 3510, 'assist_provider_name': 'Walcott', 'assist_provider_jersey_number': 11}",False
-28,EVE,SOU,3209,SOU,Ings,9,54,True,"{'assist_provider_id': 3217, 'assist_provider_name': 'Lemina', 'assist_provider_jersey_number': 18}",False
-29,LEI,WOL,3909,LEI,Maddison,10,45,True,"{'assist_provider_id': 3912, 'assist_provider_name': 'Pereira', 'assist_provider_jersey_number': 14}",False
-30,TOT,FUL,4625,TOT,Moura,27,43,False,,False
-31,TOT,FUL,4108,FUL,Mitrović,9,52,True,"{'assist_provider_id': 4102, 'assist_provider_name': 'Sessegnon', 'assist_provider_jersey_number': 3}",False
-32,TOT,FUL,4602,TOT,Trippier,2,74,False,,False
-33,TOT,FUL,4609,TOT,Kane,10,77,True,"{'assist_provider_id': 4610, 'assist_provider_name': 'Lamela', 'assist_provider_jersey_number': 11}",False
-34,WHU,BOU,4806,WHU,Arnautović,7,33,False,,True
-35,WHU,BOU,3313,BOU,Wilson,13,60,True,"{'assist_provider_id': 3303, 'assist_provider_name': 'Cook', 'assist_provider_jersey_number': 3}",False
-36,WHU,BOU,3303,BOU,Cook,3,66,True,"{'assist_provider_id': 3321, 'assist_provider_name': 'Fraser', 'assist_provider_jersey_number': 24}",False
-37,CHE,ARS,3810,CHE,Pedro,11,9,True,"{'assist_provider_id': 3803, 'assist_provider_name': 'Alonso', 'assist_provider_jersey_number': 3}",False
-38,CHE,ARS,3823,CHE,Morata,29,20,True,"{'assist_provider_id': 3822, 'assist_provider_name': 'Azpilicueta', 'assist_provider_jersey_number': 28}",False
-39,CHE,ARS,3006,ARS,Mkhitaryan,7,37,False,,False
-40,CHE,ARS,3017,ARS,Iwobi,17,41,True,"{'assist_provider_id': 3006, 'assist_provider_name': 'Mkhitaryan', 'assist_provider_jersey_number': 7}",False
-41,CHE,ARS,3803,CHE,Alonso,3,81,True,"{'assist_provider_id': 3809, 'assist_provider_name': 'Hazard', 'assist_provider_jersey_number': 10}",False
-42,BUR,WAT,4717,WAT,Gray,18,3,True,"{'assist_provider_id': 4709, 'assist_provider_name': 'Deeney', 'assist_provider_jersey_number': 9}",False
-43,BUR,WAT,3405,BUR,Tarkowski,5,6,True,"{'assist_provider_id': 3407, 'assist_provider_name': 'Guðmundsson', 'assist_provider_jersey_number': 7}",False
-44,BUR,WAT,4709,WAT,Deeney,9,48,True,"{'assist_provider_id': 4715, 'assist_provider_name': 'Doucouré', 'assist_provider_jersey_number': 16}",False
-45,BUR,WAT,4718,WAT,Hughes,19,51,False,,False
-46,MCI,HUD,4308,MCI,Agüero,10,25,True,"{'assist_provider_id': 4321, 'assist_provider_name': 'Ederson', 'assist_provider_jersey_number': 31}",False
-47,MCI,HUD,4323,MCI,Jesus,33,31,False,,False
-48,MCI,HUD,4308,MCI,Agüero,10,35,False,,False
-49,MCI,HUD,3122,HUD,Stanković,27,43,True,"{'assist_provider_id': 3119, 'assist_provider_name': 'Mounié', 'assist_provider_jersey_number': 24}",False
-50,MCI,HUD,4315,MCI,D.Silva,21,48,False,,False
-51,MCI,HUD,4308,MCI,Agüero,10,75,True,"{'assist_provider_id': 4316, 'assist_provider_name': 'Mendy', 'assist_provider_jersey_number': 22}",False
-52,BHA,MUN,3615,BHA,Murray,17,25,True,"{'assist_provider_id': 3617, 'assist_provider_name': 'March', 'assist_provider_jersey_number': 20}",False
-53,BHA,MUN,3604,BHA,Duffy,4,27,True,"{'assist_provider_id': 3611, 'assist_provider_name': 'Knockaert', 'assist_provider_jersey_number': 11}",False
-54,BHA,MUN,4408,MUN,Lukaku,9,34,False,,False
-55,BHA,MUN,3612,BHA,Groß,13,44,False,,True
-56,BHA,MUN,4405,MUN,Pogba,6,90 +5,False,,True
-57,CRY,LIV,4207,LIV,Milner,7,45,False,,True
-58,CRY,LIV,4210,LIV,Mané,10,90 +3,True,"{'assist_provider_id': 4211, 'assist_provider_name': 'Salah', 'assist_provider_jersey_number': 11}",False
-59,WOL,MCI,4910,WOL,Boly,15,57,True,"{'assist_provider_id': 4917, 'assist_provider_name': 'Moutinho', 'assist_provider_jersey_number': 28}",False
-60,WOL,MCI,4309,MCI,Laporte,14,69,True,"{'assist_provider_id': 4307, 'assist_provider_name': 'Gündoğan', 'assist_provider_jersey_number': 8}",False
-61,ARS,WHU,4806,WHU,Arnautović,7,25,True,"{'assist_provider_id': 4807, 'assist_provider_name': 'Anderson', 'assist_provider_jersey_number': 8}",False
-62,ARS,WHU,3016,ARS,Monreal,18,30,True,"{'assist_provider_id': 3017, 'assist_provider_name': 'Iwobi', 'assist_provider_jersey_number': 17}",False
-63,ARS,WHU,3019,ARS,Welbeck,23,90 +2,True,"{'assist_provider_id': 3002, 'assist_provider_name': 'Bellerin', 'assist_provider_jersey_number': 2}",False
-64,BOU,EVE,3510,EVE,Walcott,11,56,True,"{'assist_provider_id': 3513, 'assist_provider_name': 'Tosun', 'assist_provider_jersey_number': 14}",False
-65,BOU,EVE,3504,EVE,Keane,4,66,True,"{'assist_provider_id': 3509, 'assist_provider_name': 'Sigurðsson', 'assist_provider_jersey_number': 10}",False
-66,BOU,EVE,3316,BOU,King,17,75,False,,True
-67,BOU,EVE,3305,BOU,Aké,5,79,False,,False
-68,SOU,LEI,3220,SOU,Bertrand,21,52,False,,False
-69,SOU,LEI,3906,LEI,Gray,7,56,False,,False
-70,SOU,LEI,3913,LEI,Maguire,15,90 +2,True,"{'assist_provider_id': 3910, 'assist_provider_name': 'Albrighton', 'assist_provider_jersey_number': 11}",False
-71,LIV,BHA,4211,LIV,Salah,11,23,True,"{'assist_provider_id': 4209, 'assist_provider_name': 'Firmino', 'assist_provider_jersey_number': 9}",False
-72,WAT,CRY,4730,WAT,Pereyra,37,53,True,"{'assist_provider_id': 4727, 'assist_provider_name': 'Capoue', 'assist_provider_jersey_number': 29}",False
-73,WAT,CRY,4724,WAT,Holebas,25,71,True,"{'assist_provider_id': 4702, 'assist_provider_name': 'Janmaat', 'assist_provider_jersey_number': 2}",False
-74,WAT,CRY,3711,CRY,Zaha,11,78,True,"{'assist_provider_id': 3707, 'assist_provider_name': 'Meyer', 'assist_provider_jersey_number': 7}",False
-75,FUL,BUR,4119,FUL,Seri,24,4,True,"{'assist_provider_id': 4114, 'assist_provider_name': 'Vietto', 'assist_provider_jersey_number': 19}",False
-76,FUL,BUR,3412,BUR,Hendrick,13,10,False,,False
-77,FUL,BUR,4108,FUL,Mitrović,9,36,True,"{'assist_provider_id': 4109, 'assist_provider_name': 'Cairney', 'assist_provider_jersey_number': 10}",False
-78,FUL,BUR,4108,FUL,Mitrović,9,38,True,"{'assist_provider_id': 4114, 'assist_provider_name': 'Vietto', 'assist_provider_jersey_number': 19}",False
-79,FUL,BUR,3405,BUR,Tarkowski,5,41,True,"{'assist_provider_id': 3406, 'assist_provider_name': 'Mee', 'assist_provider_jersey_number': 6}",False
-80,FUL,BUR,4112,FUL,Schürrle,14,83,False,,False
-81,NEW,CHE,3809,CHE,Hazard,10,76,False,,True
-82,NEW,CHE,4520,NEW,Joselu,21,83,True,"{'assist_provider_id': 4521, 'assist_provider_name': 'Yedlin', 'assist_provider_jersey_number': 22}",False
-83,MUN,TOT,4609,TOT,Kane,10,50,True,"{'assist_provider_id': 4602, 'assist_provider_name': 'Trippier', 'assist_provider_jersey_number': 2}",False
-84,MUN,TOT,4625,TOT,Moura,27,52,True,"{'assist_provider_id': 4622, 'assist_provider_name': 'Eriksen', 'assist_provider_jersey_number': 23}",False
-85,MUN,TOT,4625,TOT,Moura,27,84,True,"{'assist_provider_id': 4609, 'assist_provider_name': 'Kane', 'assist_provider_jersey_number': 10}",False
-86,LEI,LIV,4210,LIV,Mané,10,10,True,"{'assist_provider_id': 4224, 'assist_provider_name': 'Robertson', 'assist_provider_jersey_number': 26}",False
-87,LEI,LIV,4209,LIV,Firmino,9,45,True,"{'assist_provider_id': 4207, 'assist_provider_name': 'Milner', 'assist_provider_jersey_number': 7}",False
-88,LEI,LIV,3927,LEI,Ghezzal,31,63,True,"{'assist_provider_id': 3909, 'assist_provider_name': 'Maddison', 'assist_provider_jersey_number': 10}",False
-89,BHA,FUL,4112,FUL,Schürrle,14,43,True,"{'assist_provider_id': 4119, 'assist_provider_name': 'Seri', 'assist_provider_jersey_number': 24}",False
-90,BHA,FUL,4108,FUL,Mitrović,9,62,False,,False
-91,BHA,FUL,3615,BHA,Murray,17,67,True,"{'assist_provider_id': 3611, 'assist_provider_name': 'Knockaert', 'assist_provider_jersey_number': 11}",False
-92,BHA,FUL,3615,BHA,Murray,17,84,False,,True
-93,CHE,BOU,3810,CHE,Pedro,11,72,True,"{'assist_provider_id': 3815, 'assist_provider_name': 'Giroud', 'assist_provider_jersey_number': 18}",False
-94,CHE,BOU,3809,CHE,Hazard,10,85,True,"{'assist_provider_id': 3803, 'assist_provider_name': 'Alonso', 'assist_provider_jersey_number': 3}",False
-95,CRY,SOU,3209,SOU,Ings,9,47,True,"{'assist_provider_id': 3202, 'assist_provider_name': 'Cédric', 'assist_provider_jersey_number': 2}",False
-96,CRY,SOU,3222,SOU,Højbjerg,23,90 +2,True,"{'assist_provider_id': 3225, 'assist_provider_name': 'Targett', 'assist_provider_jersey_number': 33}",False
-97,EVE,HUD,3106,HUD,Billing,8,34,False,,False
-98,EVE,HUD,3526,EVE,Calvert-Lewin,29,36,True,"{'assist_provider_id': 3511, 'assist_provider_name': 'Digne', 'assist_provider_jersey_number': 12}",False
-99,WHU,WOL,4923,WOL,Traoré,37,90 +3,True,"{'assist_provider_id': 4922, 'assist_provider_name': 'Bonatini', 'assist_provider_jersey_number': 33}",False
-100,MCI,NEW,4306,MCI,Sterling,7,8,True,"{'assist_provider_id': 4316, 'assist_provider_name': 'Mendy', 'assist_provider_jersey_number': 22}",False
-101,MCI,NEW,4521,NEW,Yedlin,22,30,True,"{'assist_provider_id': 4509, 'assist_provider_name': 'Rondón', 'assist_provider_jersey_number': 9}",False
-102,MCI,NEW,4302,MCI,Walker,2,52,True,"{'assist_provider_id': 4308, 'assist_provider_name': 'Agüero', 'assist_provider_jersey_number': 10}",False
-103,CAR,ARS,3018,ARS,Mustafi,20,11,True,"{'assist_provider_id': 3025, 'assist_provider_name': 'Xhaka', 'assist_provider_jersey_number': 34}",False
-104,CAR,ARS,4020,CAR,Camarasa,21,45 +2,True,"{'assist_provider_id': 4003, 'assist_provider_name': 'Bennett', 'assist_provider_jersey_number': 3}",False
-105,CAR,ARS,3012,ARS,Aubameyang,14,62,True,"{'assist_provider_id': 3008, 'assist_provider_name': 'Lacazette', 'assist_provider_jersey_number': 9}",False
-106,CAR,ARS,4009,CAR,Ward,9,70,True,"{'assist_provider_id': 4004, 'assist_provider_name': 'Morrison', 'assist_provider_jersey_number': 4}",False
-107,CAR,ARS,3008,ARS,Lacazette,9,81,True,"{'assist_provider_id': 3010, 'assist_provider_name': 'Torreira', 'assist_provider_jersey_number': 11}",False
-108,BUR,MUN,4408,MUN,Lukaku,9,27,True,"{'assist_provider_id': 4406, 'assist_provider_name': 'Sánchez', 'assist_provider_jersey_number': 7}",False
-109,BUR,MUN,4408,MUN,Lukaku,9,44,False,,False
-110,WAT,TOT,4709,WAT,Deeney,9,69,True,"{'assist_provider_id': 4724, 'assist_provider_name': 'Holebas', 'assist_provider_jersey_number': 25}",False
-111,WAT,TOT,4714,WAT,Cathcart,15,76,True,"{'assist_provider_id': 4724, 'assist_provider_name': 'Holebas', 'assist_provider_jersey_number': 25}",False
+id,home_team,away_team,goal_scorer_id,goal_scored_for,goal_scorer_name,goal_scorer_jersey_number,scoring_minute,assist_given,is_penalty,assist_provider_id,assist_provider_name,assist_provider_jersey_number
+2,MUN,LEI,4421,MUN,Shaw,23,83,True,False,4407,Mata,8
+4,NEW,TOT,4605,TOT,Vertonghen,5,8,True,False,4606,Sánchez,6
+5,NEW,TOT,4520,NEW,Joselu,21,11,True,False,4511,Ritchie,11
+6,NEW,TOT,4619,TOT,Alli,20,18,True,False,4623,Aurier,24
+7,BOU,CAR,3321,BOU,Fraser,24,24,True,False,3313,Wilson,13
+8,BOU,CAR,3313,BOU,Wilson,13,90 +1,True,False,3302,Francis,2
+9,FUL,CRY,3714,CRY,Schlupp,15,41,True,False,3703,van Aanholt,3
+10,FUL,CRY,3711,CRY,Zaha,11,79,True,False,3721,Wan-Bissaka,29
+11,HUD,CHE,3807,CHE,Kanté,7,34,True,False,3819,Willian,22
+13,HUD,CHE,3810,CHE,Pedro,11,80,True,False,3809,Hazard,10
+14,WAT,BHA,4730,WAT,Pereyra,37,35,True,False,4724,Holebas,25
+15,WAT,BHA,4730,WAT,Pereyra,37,54,True,False,4724,Holebas,25
+16,WOL,EVE,3527,EVE,Richarlison,30,17,True,False,3504,Keane,4
+18,WOL,EVE,3527,EVE,Richarlison,30,67,True,False,3513,Tosun,14
+19,WOL,EVE,4906,WOL,Jiménez,9,80,True,False,4905,Neves,8
+20,LIV,WHU,4211,LIV,Salah,11,19,True,False,4224,Robertson,26
+21,LIV,WHU,4210,LIV,Mané,10,47,True,False,4207,Milner,7
+22,LIV,WHU,4210,LIV,Mané,10,53,True,False,4209,Firmino,9
+24,ARS,MCI,4306,MCI,Sterling,7,14,True,False,4316,Mendy,22
+25,ARS,MCI,4314,MCI,B.Silva,20,64,True,False,4316,Mendy,22
+26,EVE,SOU,3510,EVE,Walcott,11,15,True,False,3517,Schneiderlin,18
+27,EVE,SOU,3527,EVE,Richarlison,30,31,True,False,3510,Walcott,11
+28,EVE,SOU,3209,SOU,Ings,9,54,True,False,3217,Lemina,18
+29,LEI,WOL,3909,LEI,Maddison,10,45,True,False,3912,Pereira,14
+31,TOT,FUL,4108,FUL,Mitrović,9,52,True,False,4102,Sessegnon,3
+33,TOT,FUL,4609,TOT,Kane,10,77,True,False,4610,Lamela,11
+35,WHU,BOU,3313,BOU,Wilson,13,60,True,False,3303,Cook,3
+36,WHU,BOU,3303,BOU,Cook,3,66,True,False,3321,Fraser,24
+37,CHE,ARS,3810,CHE,Pedro,11,9,True,False,3803,Alonso,3
+38,CHE,ARS,3823,CHE,Morata,29,20,True,False,3822,Azpilicueta,28
+40,CHE,ARS,3017,ARS,Iwobi,17,41,True,False,3006,Mkhitaryan,7
+41,CHE,ARS,3803,CHE,Alonso,3,81,True,False,3809,Hazard,10
+42,BUR,WAT,4717,WAT,Gray,18,3,True,False,4709,Deeney,9
+43,BUR,WAT,3405,BUR,Tarkowski,5,6,True,False,3407,Guðmundsson,7
+44,BUR,WAT,4709,WAT,Deeney,9,48,True,False,4715,Doucouré,16
+46,MCI,HUD,4308,MCI,Agüero,10,25,True,False,4321,Ederson,31
+49,MCI,HUD,3122,HUD,Stanković,27,43,True,False,3119,Mounié,24
+51,MCI,HUD,4308,MCI,Agüero,10,75,True,False,4316,Mendy,22
+52,BHA,MUN,3615,BHA,Murray,17,25,True,False,3617,March,20
+53,BHA,MUN,3604,BHA,Duffy,4,27,True,False,3611,Knockaert,11
+58,CRY,LIV,4210,LIV,Mané,10,90 +3,True,False,4211,Salah,11
+59,WOL,MCI,4910,WOL,Boly,15,57,True,False,4917,Moutinho,28
+60,WOL,MCI,4309,MCI,Laporte,14,69,True,False,4307,Gündoğan,8
+61,ARS,WHU,4806,WHU,Arnautović,7,25,True,False,4807,Anderson,8
+62,ARS,WHU,3016,ARS,Monreal,18,30,True,False,3017,Iwobi,17
+63,ARS,WHU,3019,ARS,Welbeck,23,90 +2,True,False,3002,Bellerin,2
+64,BOU,EVE,3510,EVE,Walcott,11,56,True,False,3513,Tosun,14
+65,BOU,EVE,3504,EVE,Keane,4,66,True,False,3509,Sigurðsson,10
+70,SOU,LEI,3913,LEI,Maguire,15,90 +2,True,False,3910,Albrighton,11
+71,LIV,BHA,4211,LIV,Salah,11,23,True,False,4209,Firmino,9
+72,WAT,CRY,4730,WAT,Pereyra,37,53,True,False,4727,Capoue,29
+73,WAT,CRY,4724,WAT,Holebas,25,71,True,False,4702,Janmaat,2
+74,WAT,CRY,3711,CRY,Zaha,11,78,True,False,3707,Meyer,7
+75,FUL,BUR,4119,FUL,Seri,24,4,True,False,4114,Vietto,19
+77,FUL,BUR,4108,FUL,Mitrović,9,36,True,False,4109,Cairney,10
+78,FUL,BUR,4108,FUL,Mitrović,9,38,True,False,4114,Vietto,19
+79,FUL,BUR,3405,BUR,Tarkowski,5,41,True,False,3406,Mee,6
+82,NEW,CHE,4520,NEW,Joselu,21,83,True,False,4521,Yedlin,22
+83,MUN,TOT,4609,TOT,Kane,10,50,True,False,4602,Trippier,2
+84,MUN,TOT,4625,TOT,Moura,27,52,True,False,4622,Eriksen,23
+85,MUN,TOT,4625,TOT,Moura,27,84,True,False,4609,Kane,10
+86,LEI,LIV,4210,LIV,Mané,10,10,True,False,4224,Robertson,26
+87,LEI,LIV,4209,LIV,Firmino,9,45,True,False,4207,Milner,7
+88,LEI,LIV,3927,LEI,Ghezzal,31,63,True,False,3909,Maddison,10
+89,BHA,FUL,4112,FUL,Schürrle,14,43,True,False,4119,Seri,24
+91,BHA,FUL,3615,BHA,Murray,17,67,True,False,3611,Knockaert,11
+93,CHE,BOU,3810,CHE,Pedro,11,72,True,False,3815,Giroud,18
+94,CHE,BOU,3809,CHE,Hazard,10,85,True,False,3803,Alonso,3
+95,CRY,SOU,3209,SOU,Ings,9,47,True,False,3202,Cédric,2
+96,CRY,SOU,3222,SOU,Højbjerg,23,90 +2,True,False,3225,Targett,33
+98,EVE,HUD,3526,EVE,Calvert-Lewin,29,36,True,False,3511,Digne,12
+99,WHU,WOL,4923,WOL,Traoré,37,90 +3,True,False,4922,Bonatini,33
+100,MCI,NEW,4306,MCI,Sterling,7,8,True,False,4316,Mendy,22
+101,MCI,NEW,4521,NEW,Yedlin,22,30,True,False,4509,Rondón,9
+102,MCI,NEW,4302,MCI,Walker,2,52,True,False,4308,Agüero,10
+103,CAR,ARS,3018,ARS,Mustafi,20,11,True,False,3025,Xhaka,34
+104,CAR,ARS,4020,CAR,Camarasa,21,45 +2,True,False,4003,Bennett,3
+105,CAR,ARS,3012,ARS,Aubameyang,14,62,True,False,3008,Lacazette,9
+106,CAR,ARS,4009,CAR,Ward,9,70,True,False,4004,Morrison,4
+107,CAR,ARS,3008,ARS,Lacazette,9,81,True,False,3010,Torreira,11
+108,BUR,MUN,4408,MUN,Lukaku,9,27,True,False,4406,Sánchez,7
+110,WAT,TOT,4709,WAT,Deeney,9,69,True,False,4724,Holebas,25
+111,WAT,TOT,4714,WAT,Cathcart,15,76,True,False,4724,Holebas,25
